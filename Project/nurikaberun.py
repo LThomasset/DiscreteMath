@@ -10,7 +10,7 @@ import time
 if sys.platform == 'linux':
     import psutil
 
-from Project.nurikabeinputs import n_puzzles
+from nurikabeinputs import n_puzzles
 
 def parse_command(cmdline: str | None = None) -> argparse.Namespace:
     """Extract command-line arguments."""

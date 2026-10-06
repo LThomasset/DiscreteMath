@@ -2,8 +2,8 @@
 
 from collections.abc import Sequence
 
-from Project.nurikabeinputs import find_clues
-from Project.nurikabedisplay import print_matplotlib
+from nurikabeinputs import find_clues
+from nurikabedisplay import print_matplotlib
 
 Square = tuple[int,int]
 
