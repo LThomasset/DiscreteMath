@@ -354,11 +354,11 @@ if __name__ == '__main__':
     # (true,true)   is forbidden.
 
     # Horizontal edges.
-    H = [[[Bool(f'h_{i}_{j}_{k}') for k in range(2)] # makes sure to check h_i_j_0 and h_i_j_1
+    H = [[[Bool(f'h_{i}_{j}_{k}') for k in range(2)] # makes sure to check h_i_j_0 (left) and h_i_j_1 (right)
           for j in range(ncol)]
           for i in range(nrow)]
     # Vertical edges.
-    V = [[[Bool(f'v_{i}_{j}_{k}') for k in range(2)] # makes sure to check v_i_j_0 and v_i_j_1
+    V = [[[Bool(f'v_{i}_{j}_{k}') for k in range(2)] # makes sure to check v_i_j_0 (down) and v_i_j_1 (up)
           for j in range(ncol)]
           for i in range(nrow)]
 
