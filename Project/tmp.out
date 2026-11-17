@@ -1,23 +1,23 @@
 =================================  0 =================================
-# Encoding time: 0.05403 s
+# Encoding time: 0.05772 s
 ■ 1 ■ ■ 4
 ■ ■ 2 ■ ·
 · ■ · ■ ·
 · ■ ■ ■ ·
 5 · · ■ ■
 # Number of solutions found: 1
-# CPU time: 0.0653 s
+# CPU time: 0.06566 s
 =================================  1 =================================
-# Encoding time: 0.05015 s
+# Encoding time: 0.04936 s
 · 2 ■ ■ ■
 ■ ■ 3 ■ ·
 ■ · · ■ ·
 ■ ■ ■ ■ 7
 ■ · · · ·
 # Number of solutions found: 1
-# CPU time: 0.06093 s
+# CPU time: 0.05619 s
 =================================  2 =================================
-# Encoding time: 0.09673 s
+# Encoding time: 0.09449 s
 ■ 2 ■ ■ ■ ■
 ■ · ■ · ■ ·
 ■ ■ ■ 2 ■ 2
@@ -25,9 +25,9 @@
 ■ ■ ■ · 2 ■
 2 · ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1112 s
+# CPU time: 0.1014 s
 =================================  3 =================================
-# Encoding time: 0.066 s
+# Encoding time: 0.06392 s
 ■ ■ ■ ■ ■ ■
 ■ · · · · ■
 ■ · ■ ■ ■ ■
@@ -35,9 +35,9 @@
 ■ · B ■ ■ ■
 ■ ■ · · · ■
 # Number of solutions found: 1
-# CPU time: 0.08665 s
+# CPU time: 0.07596 s
 =================================  4 =================================
-# Encoding time: 0.1905 s
+# Encoding time: 0.1883 s
 ■ ■ ■ ■ ■ ■ ■ ■
 · ■ · · ■ ? · ■
 · ■ · · · ■ · ■
@@ -47,9 +47,9 @@
 ■ ■ · ■ ■ ■ ■ ■
 1 ■ ■ 4 · · · ■
 # Number of solutions found: 1
-# CPU time: 0.4234 s
+# CPU time: 0.208 s
 =================================  5 =================================
-# Encoding time: 0.1613 s
+# Encoding time: 0.1666 s
 ■ ■ ■ ■ ■ ■
 ■ · ■ ? · ■
 ■ · ? ■ ■ ■
@@ -60,9 +60,9 @@
 ■ ■ ■ ? · ■
 ■ · 2 ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1937 s
+# CPU time: 0.18 s
 =================================  6 =================================
-# Encoding time: 0.08114 s
+# Encoding time: 0.07959 s
 · 3 ■ ■ ■ ■
 · ■ 3 · · ■
 ■ ■ ■ ■ ■ ■
@@ -70,9 +70,9 @@
 ■ · 3 ■ · ■
 ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.0972 s
+# CPU time: 0.08593 s
 =================================  7 =================================
-# Encoding time: 0.1212 s
+# Encoding time: 0.1209 s
 ■ ■ ■ ■ 4 · ·
 ■ · · 7 ■ ■ ·
 ■ · ■ ■ ■ 1 ■
@@ -81,9 +81,9 @@
 ■ · ■ 1 ■ · ■
 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1565 s
+# CPU time: 0.1315 s
 =================================  8 =================================
-# Encoding time: 0.1528 s
+# Encoding time: 0.1533 s
 1 ■ ■ ■ ■ · ·
 ■ ■ 3 · ■ · ·
 ■ 1 ■ · ■ · ·
@@ -92,9 +92,9 @@
 · ■ · · 5 ■ ■
 ■ ■ ■ ■ ■ ■ 1
 # Number of solutions found: 1
-# CPU time: 0.1951 s
+# CPU time: 0.1672 s
 =================================  9 =================================
-# Encoding time: 0.1033 s
+# Encoding time: 0.1068 s
 ■ ■ ■ ■ ■ ■ ■
 ■ · 4 · ■ · ■
 ■ · ■ ■ ■ · ■
@@ -103,23 +103,23 @@
 ■ · · · 6 · ■
 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1687 s
+# CPU time: 0.1185 s
 ================================= 10 =================================
-# Encoding time: 0.006898 s
+# Encoding time: 0.007064 s
 ■ ■
 ■ 1
 # Number of solutions found: 1
-# CPU time: 0.008009 s
+# CPU time: 0.008001 s
 ================================= 11 =================================
-# Encoding time: 0.006899 s
+# Encoding time: 0.006658 s
 ■ 2
 ■ ·
 · 2
 ■ ■
 # Number of solutions found: 2
-# CPU time: 0.00847 s
+# CPU time: 0.008076 s
 ================================= 12 =================================
-# Encoding time: 0.006602 s
+# Encoding time: 0.006979 s
 · ·
 3 ■
 ■ ·
@@ -127,30 +127,30 @@
 · ■
 3 ·
 # Number of solutions found: 3
-# CPU time: 0.008443 s
+# CPU time: 0.008874 s
 ================================= 13 =================================
-# Encoding time: 0.007089 s
+# Encoding time: 0.0073 s
 # Number of solutions found: 0
-# CPU time: 0.007537 s
+# CPU time: 0.007617 s
 ================================= 14 =================================
-# Encoding time: 0.003402 s
+# Encoding time: 0.003368 s
 ■
 # Number of solutions found: 1
-# CPU time: 0.003899 s
+# CPU time: 0.00387 s
 ================================= 15 =================================
-# Encoding time: 0.004149 s
+# Encoding time: 0.004161 s
 ■ ?
 # Number of solutions found: 1
-# CPU time: 0.004789 s
+# CPU time: 0.004805 s
 ================================= 16 =================================
-# Encoding time: 0.005165 s
+# Encoding time: 0.00498 s
 ■
 ·
 2
 # Number of solutions found: 1
-# CPU time: 0.006077 s
+# CPU time: 0.00572 s
 ================================= 17 =================================
-# Encoding time: 0.439 s
+# Encoding time: 0.4274 s
 ■ · 6 ■ ■ ■ ■ ■ ■ ■
 ■ · ■ · 3 ■ 3 · · ■
 ■ · ■ · ■ 2 ■ ■ ■ ■
@@ -162,9 +162,9 @@
 ■ · · · ■ ■ ■ ■ ■ ·
 ■ ■ ■ ■ 2 · ■ 1 ■ ■
 # Number of solutions found: 1
-# CPU time: 0.5579 s
+# CPU time: 0.4543 s
 ================================= 18 =================================
-# Encoding time: 0.1211 s
+# Encoding time: 0.12 s
 ■ ■ ■ ■ ■ ■ ■
 ■ · · · ■ · ■
 ■ ■ ■ 4 ■ · 3
@@ -173,9 +173,9 @@
 ■ · ■ · · · ■
 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.16 s
+# CPU time: 0.1325 s
 ================================= 19 =================================
-# Encoding time: 1.909 s
+# Encoding time: 1.926 s
 ■ · · · · · · · ■ ■ 1 ■ ■ ■ ■
 ■ ■ ■ ■ ■ ■ ■ 8 ■ 1 ■ · ■ · ■
 ■ · · · ■ · · ■ ■ ■ ■ · ■ 2 ■
@@ -192,9 +192,9 @@
 ■ ■ · 2 ■ C · · · · · · · · ■
 1 ■ ■ ■ 1 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 5.064 s
+# CPU time: 2.037 s
 ================================= 20 =================================
-# Encoding time: 0.1604 s
+# Encoding time: 0.1629 s
 ■ 1 ■ ■ ■ ■ ·
 ■ ■ ■ · · ■ ·
 2 · ■ ■ 3 ■ 3
@@ -203,25 +203,25 @@
 · ■ ■ · ■ ■ ■
 4 ■ 3 · ■ · 2
 # Number of solutions found: 1
-# CPU time: 0.1877 s
+# CPU time: 0.1746 s
 ================================= 21 =================================
-# Encoding time: 0.01665 s
+# Encoding time: 0.01645 s
 · 3 ·
 ■ ■ ■
 1 ■ ?
 # Number of solutions found: 1
-# CPU time: 0.01903 s
+# CPU time: 0.01836 s
 ================================= 22 =================================
-# Encoding time: 0.0587 s
+# Encoding time: 0.05975 s
 · · 3 ■ 5
 ■ ■ ■ ■ ·
 1 ■ · · ·
 ■ ■ ■ ■ ■
 · · 3 ■ 1
 # Number of solutions found: 1
-# CPU time: 0.06799 s
+# CPU time: 0.06627 s
 ================================= 23 =================================
-# Encoding time: 7.083 s
+# Encoding time: 7.383 s
 1 ■ 2 · ■ 2 ■ 1 ■ 4 · ■ 1 ■ 4 ■ 3 · ■ 2
 ■ ■ ■ ■ ■ · ■ ■ ■ · · ■ ■ ■ · ■ ■ · ■ ·
 6 ■ 1 ■ · ■ 1 ■ · ■ ■ 8 · ■ · · ■ ■ ■ ■
@@ -243,9 +243,9 @@
 · ■ · ■ · · ■ · ■ 1 ■ ■ 1 ■ · · ■ · ■ ·
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 1 ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 11.69 s
+# CPU time: 7.749 s
 ================================= 24 =================================
-# Encoding time: 0.3186 s
+# Encoding time: 0.3249 s
 1 ■ ■ ■ ■ 1 ■ ■ ■ 1
 ■ ■ · · ■ ■ ■ 1 ■ ■
 ■ 1 ■ · · ■ 1 ■ · ■
@@ -255,9 +255,9 @@
 ■ · · · ■ ■ 1 ■ 1 ■
 ■ ■ ■ ■ ■ 1 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.3646 s
+# CPU time: 0.3492 s
 ================================= 25 =================================
-# Encoding time: 0.3453 s
+# Encoding time: 0.3509 s
 3 ■ 7 ■ 5 ■ 2 · ■ · · · · · · ■
 · ■ · ■ · ■ ■ ■ ■ ■ 8 · ■ ■ ■ ■
 · ■ · ■ · · · ■ · ■ ■ ■ ■ · · ■
@@ -265,9 +265,9 @@
 ■ · · · ■ ? · ■ ■ ■ ■ · ■ · ■ ·
 ■ ■ ■ ■ ■ ■ ■ · · 3 ■ 7 ■ 5 ■ 2
 # Number of solutions found: 1
-# CPU time: 3.318 s
+# CPU time: 0.4047 s
 ================================= 26 =================================
-# Encoding time: 0.3875 s
+# Encoding time: 0.3685 s
 ■ · · · 4 ■ ■ ■ ■ E
 ■ ■ ■ ■ ■ 5 · · ■ ·
 ■ · ■ · 2 ■ ■ · ■ ·
@@ -279,11 +279,23 @@
 ■ · · ■ 1 ■ ■ ■ ■ ·
 ■ ■ ■ ■ ■ ■ · · · ·
 # Number of solutions found: 1
-# CPU time: 0.6663 s
+# CPU time: 0.4089 s
 ================================= 27 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '27']' timed out after 60 seconds
+# Encoding time: 0.3044 s
+· ■ ■ ■ ■ ■ ■ ■ ■ ■
+· ■ A · ■ A · · · ■
+· ■ ■ · · ■ · · · ■
+7 · · ■ · ■ ■ · · ■
+■ ■ · ■ · ■ 5 ■ · ■
+5 ■ ■ ■ · ■ · ■ ■ ■
+· ■ · · · ■ · · ■ A
+· ■ ■ ■ ■ ■ ■ · ■ ·
+· ■ · 2 ■ · ■ ■ ■ ·
+· ■ ■ ■ · · · · · ·
+# Number of solutions found: 1
+# CPU time: 4.047 s
 ================================= 28 =================================
-# Encoding time: 0.3681 s
+# Encoding time: 0.3812 s
 · · · · · ■ ■ · · ■
 · 7 ■ ■ ■ ■ · 5 ■ ■
 ■ ■ 6 · · ■ · ■ 4 ■
@@ -295,9 +307,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '27']' timed out after 
 ■ ■ 3 ■ · · ■ ■ 6 ·
 ■ · · ■ ■ ■ ■ · · ·
 # Number of solutions found: 1
-# CPU time: 1.565 s
+# CPU time: 0.4348 s
 ================================= 29 =================================
-# Encoding time: 0.7311 s
+# Encoding time: 0.7456 s
 · · · ■ ■ ■ ■ · · · · ■
 · 6 ■ ■ · 3 ■ ■ · 6 ■ ■
 · ■ 1 ■ · ■ 8 ■ ■ ■ 3 ■
@@ -311,9 +323,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '27']' timed out after 
 ■ ■ 4 ■ ■ ■ 4 ■ · ■ 5 ·
 · · · ■ · · · ■ ■ ■ · ·
 # Number of solutions found: 1
-# CPU time: 6.106 s
+# CPU time: 0.8287 s
 ================================= 30 =================================
-# Encoding time: 0.3663 s
+# Encoding time: 0.388 s
 2 ■ 1 ■ 2 ■ 6 · · · ■ · · · · 14
 · ■ ■ ■ · ■ ■ ■ · · ■ · · · · ·
 ■ ■ · ■ ■ ■ · ■ ■ ■ ■ · · · · ·
@@ -321,9 +333,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '27']' timed out after 
 · · · · · · · · ■ ■ ■ ■ ■ ■ ■ ■
 1A · · · · · · · ■ 1 ■ 1 ■ 1 ■ 1
 # Number of solutions found: 1
-# CPU time: 13.67 s
+# CPU time: 2.997 s
 ================================= 31 =================================
-# Encoding time: 0.41 s
+# Encoding time: 0.4214 s
 2 · ■ · · · · · ■ 1
 ■ ■ ■ ■ · · ■ ■ ■ ■
 ■ · 2 ■ ■ · ■ 1 ■ ·
@@ -335,18 +347,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '27']' timed out after 
 · ■ · · ■ · · · ■ ·
 8 ■ ■ ■ ■ ■ ■ ■ ■ 8
 # Number of solutions found: 1
-# CPU time: 0.726 s
+# CPU time: 0.4681 s
 ================================= 32 =================================
-# Encoding time: 0.08739 s
+# Encoding time: 0.09929 s
 ■ ■ ■ ■ ■ ■ ■ ■
 ■ 2 · ■ 1 ■ · ■
 ■ ■ ■ ■ ■ ■ · ■
 ■ · · 3 ■ · 4 ■
 ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1016 s
+# CPU time: 0.1077 s
 ================================= 33 =================================
-# Encoding time: 2.009 s
+# Encoding time: 2.11 s
 4 · ■ ■ ■ ■ 2 · ■ 2 ■ · · · ■ 3
 · ■ ■ · · ■ ■ ■ ■ · ■ · ■ ■ ■ ·
 · ■ 2 ■ · ■ · · ■ ■ ■ · ■ 1 ■ ·
@@ -364,11 +376,30 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '27']' timed out after 
 · ■ · ■ 1 ■ ■ ■ ■ · ■ ■ ■ ■ 7 ·
 2 ■ ■ ■ ■ ■ · · · · ■ · · · · ·
 # Number of solutions found: 1
-# CPU time: 14.46 s
+# CPU time: 2.355 s
 ================================= 34 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '34']' timed out after 60 seconds
+# Encoding time: 2.472 s
+2 ■ ■ 5 · ■ · 3 ■ ■ 5 · · ■ 4 ■ 2
+· ■ 3 ■ · ■ · ■ 5 ■ ■ ■ · ■ · ■ ·
+■ ■ · ■ · ■ ■ ■ · · · ■ · ■ · ■ ■
+· ■ · ■ · ■ · ■ ■ ■ · ■ ■ ■ · ■ ·
+· ■ ■ ■ ■ · · · · ■ ■ ■ · ■ ■ ■ ·
+· ■ · 2 ■ 6 ■ ■ ■ ■ · ■ · 8 · · ·
+· ■ ■ ■ 6 ■ 1 ■ · ■ · ■ ■ ■ ■ ■ ■
+· · · ■ · ■ ■ ■ · ■ · · ■ 3 · ■ 7
+■ ■ · ■ · · · ■ · ■ ■ · · ■ · ■ ·
+6 ■ · ■ ■ ■ · ■ · · ■ ■ 7 ■ ■ ■ ·
+· ■ · · · ■ ■ ■ ■ · · 8 ■ · ■ · ·
+· ■ ■ ■ · · ■ 9 ■ ■ ■ ■ ■ 2 ■ ■ ·
+· · · ■ ■ F ■ · · · · · · ■ · ■ ·
+■ ■ ■ 3 ■ ■ ■ ■ ■ ■ · ■ ■ ■ · ■ ■
+· ■ · · ■ · · ■ · ■ · ■ · ■ · ■ ·
+· ■ ■ ■ ■ ■ · ■ 2 ■ ■ ■ · ■ 4 ■ ·
+3 ■ 3 · · ■ 4 ■ ■ 2 · ■ · 4 ■ ■ 3
+# Number of solutions found: 1
+# CPU time: 3.044 s
 ================================= 35 =================================
-# Encoding time: 0.524 s
+# Encoding time: 0.5413 s
 2 · ■ 2 ■ 2 ■ ■ ■ ■
 ■ ■ ■ · ■ · ■ · 2 ■
 2 ■ 2 ■ ■ ■ ■ ■ ■ ■
@@ -380,9 +411,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '34']' timed out after 
 2 · ■ 2 ■ · 2 ■ · ■
 ■ ■ ■ ■ ■ ■ ■ ■ 2 ■
 # Number of solutions found: 1
-# CPU time: 0.611 s
+# CPU time: 0.5715 s
 ================================= 36 =================================
-# Encoding time: 0.4112 s
+# Encoding time: 0.4276 s
 1 ■ ■ 5 ■ C · · · ·
 ■ · ■ · ■ · ■ ■ ■ ·
 ■ 2 ■ · ■ ■ 2 · ■ ·
@@ -394,9 +425,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '34']' timed out after 
 2 · ■ ■ 8 ■ ■ · · ■
 ■ ■ ■ · · · · · ■ ■
 # Number of solutions found: 1
-# CPU time: 0.7296 s
+# CPU time: 0.4667 s
 ================================= 37 =================================
-# Encoding time: 0.3457 s
+# Encoding time: 0.3588 s
 · · · · · · · · · ·
 · ■ ■ ■ ■ ■ ■ ■ ■ ·
 · ■ · ■ · · · · ■ ·
@@ -408,9 +439,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '34']' timed out after 
 ■ ■ ■ ■ · · 14 ■ · ■
 ■ · 2 ■ ■ ■ ■ 1 ■ ■
 # Number of solutions found: 1
-# CPU time: 9.205 s
+# CPU time: 0.9729 s
 ================================= 38 =================================
-# Encoding time: 0.1232 s
+# Encoding time: 0.1226 s
 ■ · · · · · ■
 ■ ■ 6 ■ ■ ■ ■
 ■ 4 ■ 1 ■ · ■
@@ -419,9 +450,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '34']' timed out after 
 ■ ■ ■ ■ ■ · ■
 · · 4 · ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1997 s
+# CPU time: 0.1407 s
 ================================= 39 =================================
-# Encoding time: 0.1212 s
+# Encoding time: 0.1249 s
 ■ ■ ■ ■ ■ ■ ■
 ■ · ■ · ■ · ■
 ■ · 5 · ■ · ■
@@ -430,9 +461,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '34']' timed out after 
 ■ · ■ ■ 6 · ■
 ■ ■ · 2 ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1611 s
+# CPU time: 0.1384 s
 ================================= 40 =================================
-# Encoding time: 0.3692 s
+# Encoding time: 0.3631 s
 1 ■ ■ ■ ■ · · · ■
 ■ 2 ■ 1 ■ 4 ■ ■ ■
 ■ · ■ ■ 1 ■ 3 · ■
@@ -443,20 +474,36 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '34']' timed out after 
 ■ 2 ■ ■ ■ ■ 1 ■ ·
 ■ ■ ■ · 2 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.4285 s
+# CPU time: 0.3848 s
 ================================= 41 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 60 seconds
+# Encoding time: 3.498 s
+· · 3 ■ ■ · 3 ■ ■ · 2 ■ ■ ■ ■ · 2 ■ ■ ■ ■ ■ ■ 2
+■ ■ ■ 4 ■ · ■ 3 ■ ■ ■ 2 · ■ · ■ ■ 4 · · ■ 4 ■ ·
+2 · ■ · ■ ■ ■ · · ■ · ■ ■ ■ · · ■ · ■ ■ ■ · ■ ■
+■ ■ ■ · · ■ · ■ ■ ■ · · ■ 6 · · ■ ■ ■ · ■ · ■ 5
+1 ■ · ■ ■ ■ · · ■ 5 · ■ ■ ■ ■ ■ ■ · ■ · ■ · ■ ·
+■ ■ · ■ 6 · · ■ ■ ■ ■ ■ · · ■ 8 · · ■ 3 ■ ■ ■ ·
+· ■ · ■ ■ ■ ■ 4 · · ■ · 4 ■ ■ ■ ■ · · ■ ■ 4 ■ ·
+· ■ 4 ■ · · ■ · ■ ■ ■ ■ ■ · · ■ 5 ■ · · ■ · ■ ·
+· ■ ■ ■ · ■ 4 ■ ■ · · 7 · · ■ ■ · ■ ■ ■ ■ · ■ ■
+4 ■ · ■ · ■ · · ■ ■ ■ ■ ■ ■ · ■ · · ■ 4 ■ · ■ 1
+■ ■ · ■ · ■ · ■ ■ 6 · · · ■ 2 ■ ■ · ■ · · ■ ■ ■
+■ · 5 ■ 9 ■ ■ 2 ■ ■ ■ ■ · · ■ · · ■ ■ ■ · ■ · 2
+■ · ■ · · · ■ · ■ · · 3 ■ ■ ■ ■ · ■ · 2 ■ ■ ■ ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ · 2 ■ 4 ■ ■ ■ · · · 4
+# Number of solutions found: 1
+# CPU time: 5.866 s
 ================================= 42 =================================
-# Encoding time: 0.05919 s
+# Encoding time: 0.06087 s
 ■ ■ · · 3
 · ■ ■ ■ ■
 2 ■ · 2 ■
 ■ ■ ■ ■ ■
 ■ 2 · ■ 1
 # Number of solutions found: 1
-# CPU time: 0.0678 s
+# CPU time: 0.06596 s
 ================================= 43 =================================
-# Encoding time: 0.1299 s
+# Encoding time: 0.1354 s
 ■ ■ ■ · · · ■
 ■ · ■ ■ ■ 4 ■
 ■ · ■ 1 ■ ■ ■
@@ -465,9 +512,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 · ■ 4 · · · ■
 · 3 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1668 s
+# CPU time: 0.1457 s
 ================================= 44 =================================
-# Encoding time: 0.1318 s
+# Encoding time: 0.1324 s
 ■ ■ ■ ■ ■ ■ ■
 ■ · 2 ■ · ■ ·
 ■ ■ ■ 3 · ■ ·
@@ -476,27 +523,27 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 ■ · · ■ 2 · ■
 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1603 s
+# CPU time: 0.143 s
 ================================= 45 =================================
-# Encoding time: 0.05404 s
+# Encoding time: 0.05434 s
 · ■ · · ■
 2 ■ 3 ■ ■
 ■ ■ ■ 3 ■
 · ■ · · ■
 2 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.06331 s
+# CPU time: 0.05925 s
 ================================= 46 =================================
-# Encoding time: 0.05408 s
+# Encoding time: 0.05395 s
 1 ■ · 2 ■
 ■ ■ ■ ■ ■
 · 3 ■ · ■
 · ■ 3 · ■
 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.06276 s
+# CPU time: 0.05948 s
 ================================= 47 =================================
-# Encoding time: 0.201 s
+# Encoding time: 0.202 s
 · ■ ■ · · · 5 ·
 3 ■ 3 ■ ■ ■ ■ ■
 · ■ · · ■ · 2 ■
@@ -506,9 +553,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 ■ 4 ■ ■ ■ ■ ■ 6
 ■ ■ ■ · · · · ·
 # Number of solutions found: 1
-# CPU time: 0.2859 s
+# CPU time: 0.22 s
 ================================= 48 =================================
-# Encoding time: 0.1526 s
+# Encoding time: 0.1539 s
 2 ■ 3 ■ · · ·
 · ■ · ■ ■ ■ 4
 ■ ■ · ■ 1 ■ ■
@@ -517,9 +564,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 · ■ 2 ■ 2 ■ ·
 · 5 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1826 s
+# CPU time: 0.1641 s
 ================================= 49 =================================
-# Encoding time: 0.5022 s
+# Encoding time: 0.4977 s
 · · 4 ■ · 4 ■ ■ 3 ·
 ■ ■ · ■ · ■ 1 ■ · ■
 7 ■ ■ ■ · ■ ■ ■ ■ ■
@@ -531,9 +578,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 ■ · ■ ■ ■ · ■ ■ ■ ■
 ■ ■ ■ 1 ■ ■ ■ 1 ■ 1
 # Number of solutions found: 1
-# CPU time: 0.6239 s
+# CPU time: 0.5295 s
 ================================= 50 =================================
-# Encoding time: 0.9159 s
+# Encoding time: 0.9109 s
 ■ · · · · ■ ■ ■
 ■ 8 ■ ■ · · · ■
 ■ ■ 1 ■ ■ ■ ■ ■
@@ -553,9 +600,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 2 ■ ■ · ■ 2 ■ 3
 · ■ · 3 ■ ■ ■ ·
 # Number of solutions found: 1
-# CPU time: 1.24 s
+# CPU time: 0.9625 s
 ================================= 51 =================================
-# Encoding time: 1.485 s
+# Encoding time: 1.505 s
 2 ■ · · · · ■ ■ ■ ■ ■ ■ 6 ■ ■ ■ · 2 ■ ■
 · ■ 6 ■ ■ · ■ · ■ · · ■ · ■ 1 ■ ■ ■ 2 ■
 ■ ■ ■ ■ 3 ■ ■ 3 ■ ■ 3 ■ · ■ ■ ■ · ■ · ■
@@ -567,9 +614,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 ■ ■ ■ ■ ■ ■ ■ ■ ■ 3 · · ■ ■ ■ 4 ■ · ■ ·
 8 · · · · · · · ■ ■ ■ ■ ■ · · · ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 2.462 s
+# CPU time: 1.598 s
 ================================= 52 =================================
-# Encoding time: 0.3807 s
+# Encoding time: 0.3892 s
 ■ ■ · 3 · ■ ■ ■ ·
 · ■ ■ ■ ■ 2 · ■ 2
 · 3 ■ · ■ ■ ■ ■ ■
@@ -580,9 +627,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 · · ■ · ■ 1 ■ 4 ·
 4 · ■ 2 ■ ■ ■ · ·
 # Number of solutions found: 1
-# CPU time: 0.4531 s
+# CPU time: 0.4153 s
 ================================= 53 =================================
-# Encoding time: 0.8613 s
+# Encoding time: 0.8887 s
 · ■ · ■ · · · ■ 3 ■ ■ ■
 3 ■ 3 ■ ■ ■ 4 ■ · ■ · 2
 · ■ · ■ · ■ ■ ■ · ■ ■ ■
@@ -596,9 +643,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 ■ · ■ · · 8 ■ ■ ■ 2 · ■
 ■ 2 ■ · · · ■ · 2 ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 1.287 s
+# CPU time: 0.9469 s
 ================================= 54 =================================
-# Encoding time: 0.9921 s
+# Encoding time: 1.003 s
 ■ ■ · 3 · ■ · 2 ■ ■
 1 ■ ■ ■ ■ ■ ■ ■ 1 ■
 ■ ■ · ■ 3 · · ■ ■ ■
@@ -614,9 +661,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 · ■ 1 ■ ■ ■ 5 ■ ■ ·
 3 ■ ■ ■ · · · · ■ ■
 # Number of solutions found: 1
-# CPU time: 1.212 s
+# CPU time: 1.06 s
 ================================= 55 =================================
-# Encoding time: 0.1307 s
+# Encoding time: 0.1426 s
 ■ ■ ■ ■ ■ ■ ■
 ■ 1 ■ · · 7 ■
 ■ ■ · · ■ ■ 4
@@ -625,9 +672,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 ■ · · ■ ■ ■ ·
 ■ ■ 3 ■ 1 ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1617 s
+# CPU time: 0.1525 s
 ================================= 56 =================================
-# Encoding time: 1.98 s
+# Encoding time: 2.068 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 3 · ■ ■ ■
 ■ · ■ · ■ · 2 ■ · 2 ■ · ■ 1 ■
 ■ · ■ 2 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
@@ -644,9 +691,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 ■ 2 ■ · ■ 2 · ■ 3 · · ■ ■ 1 ■
 ■ ■ ■ · 3 ■ ■ ■ ■ ■ ■ ■ 1 ■ ■
 # Number of solutions found: 1
-# CPU time: 2.865 s
+# CPU time: 2.181 s
 ================================= 57 =================================
-# Encoding time: 0.1521 s
+# Encoding time: 0.1551 s
 2 ■ 4 · ■ 3 ·
 · ■ ■ · ■ · ■
 ■ 2 ■ · ■ ■ ■
@@ -655,45 +702,112 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '41']' timed out after 
 · · ■ 2 ■ · ·
 4 · ■ ■ · · 5
 # Number of solutions found: 1
-# CPU time: 0.1838 s
+# CPU time: 0.1675 s
 ================================= 58 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '58']' timed out after 60 seconds
+# Encoding time: 3.944 s
+■ ■ · · · · · · · · · ■ 1 ■ ■ ■ ■ ■ 1 ■
+■ · · ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ · · · ■ ■ ■
+■ ■ · ■ · · · · 5 ■ · ■ · 2 ■ · ■ 2 · ■
+· ■ ■ ■ ■ ■ ■ ■ ■ · · ■ ■ ■ ■ · ■ ■ ■ ■
+· ■ · 2 ■ · 4 ■ · · ■ · · · · · · · ■ 1
+· ■ ■ ■ · · ■ 14 · ■ ■ 14 ■ ■ ■ · ■ ■ ■ ■
+· 5 ■ · ■ ■ ■ ■ ■ · ■ ■ 2 · ■ · ■ 2 · ■
+■ ■ ■ · · 14 · · ■ 2 ■ · ■ ■ ■ · · ■ ■ ■
+1 ■ · ■ ■ · ■ ■ ■ ■ ■ 2 ■ · 5 ■ · · · ■
+■ ■ · 3 ■ · ■ 2 ■ · 3 ■ ■ ■ · ■ ■ ■ ■ ■
+· ■ ■ ■ ■ · ■ · ■ · ■ ■ · ■ · ■ 2 ■ 1 ■
+· ■ 2 · ■ · · ■ ■ ■ ■ 3 · ■ · ■ · ■ ■ ■
+· ■ ■ ■ 14 ■ · · · · · ■ ■ ■ ■ ■ ■ ■ 1 ■
+· ■ · · · ■ ■ ■ ■ ■ · · · · ■ · ■ 2 ■ ■
+· ■ · ■ ■ · · ■ · ■ ■ ■ ■ ■ ■ · ■ · ■ ·
+· ■ · ■ 4 · ■ 3 · ■ 6 · · · ■ · 5 ■ ■ ·
+· ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ · · ■ · ■ · ·
+· ■ · · · · · · · · · · · ■ ■ ■ ■ ■ ■ 5
+· ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ · · ■ · · · 4 ■
+· · · · · · · · · · 14 ■ ■ ■ ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 20.35 s
 ================================= 59 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '59']' timed out after 60 seconds
+# Encoding time: 0.6398 s
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+■ · · · · · · · ■ · ■ · ■
+■ ■ ■ · ■ ■ ■ ■ ■ · ■ · ■
+■ · ■ · ■ 3 ■ 5 · · ■ · ■
+■ · ■ · ■ · ■ ■ ■ ■ ■ · ■
+■ · ■ B ■ · ■ · ■ 1 ■ · ■
+■ · ■ ■ ■ ■ ■ · ■ ■ ■ · ■
+■ · · B ■ · · · · 7 ■ · ■
+■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ · ■
+■ 3 ■ · ■ 9 ■ D · · · · ■
+■ · ■ · ■ · ■ ■ ■ ■ ■ ■ ■
+■ · ■ · ■ · · · · · · · ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 0.711 s
 ================================= 60 =================================
-# Encoding time: 0.06284 s
+# Encoding time: 0.06759 s
 ■ ■ ■ ■ ■ ■ ■
 ■ · · · ■ · ■
 ■ 5 ■ ■ ■ · ■
 ■ · ■ 5 · · ■
 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.08435 s
+# CPU time: 0.07431 s
 ================================= 61 =================================
-# Encoding time: 0.1485 s
-■ 3 ■ ■ ■ ■ ■ ■ ■ ■
-■ · · ■ · · ■ · 5 ■
-■ ■ ■ ■ ■ 3 ■ ■ · ■
-■ · 5 · ■ ■ 3 ■ · ■
-■ · ■ · ■ · · ■ · ■
-■ ■ ■ ■ ■ ■ ■ ■ ■ ■
-# Number of solutions found: 1
-# CPU time: 0.2151 s
+# Encoding time: 0.157 s
+# Number of solutions found: 0
+# CPU time: 0.1656 s
 ================================= 62 =================================
-# Encoding time: 0.05449 s
+# Encoding time: 0.05393 s
 ■ ■ 4 · ·
 ■ 3 ■ ■ ·
 ■ · · ■ ■
 ■ ■ ■ ■ 1
 ■ · 2 ■ ■
 # Number of solutions found: 1
-# CPU time: 0.06338 s
+# CPU time: 0.05937 s
 ================================= 63 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '63']' timed out after 60 seconds
+# Encoding time: 1.259 s
+4 · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+· · ■ 16 ■ · · · · 5 ■ · · 3 ■
+■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+■ 16 ■ · · · · ■ · · · ■ · · ■
+■ · ■ ■ ■ ■ · ■ 5 · ■ ■ 5 · ■
+■ · · · · ■ · · ■ ■ ■ 1 ■ · ■
+■ ■ ■ ■ · ■ ■ · · · · ■ ■ ■ ■
+■ 2 · ■ · · ■ ■ ■ ■ · ■ · 2 ■
+■ ■ ■ ■ ■ · · · · ■ · · ■ ■ ■
+■ · ■ 6 · ■ ■ ■ · ■ ■ · · · ■
+■ · 4 ■ · ■ 3 ■ · ■ · ■ ■ · ■
+■ · ■ ■ · ■ · ■ · ■ · 3 ■ · ■
+■ ■ ■ · · ■ · ■ · ■ ■ ■ ■ · ■
+· 4 ■ ■ ■ 5 ■ ■ · · · · · ■ ■
+· · ■ · · · · ■ ■ ■ ■ ■ ■ ■ 1
+# Number of solutions found: 1
+# CPU time: 2.799 s
 ================================= 64 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '64']' timed out after 60 seconds
+# Encoding time: 2.446 s
+· · ■ 9 ■ 3 · · ■ · · 3 ■ D · ■ ·
+· · ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ · · ■ ·
+· · ■ · · · · ■ · · ■ · · · · ■ ·
+8 · ■ · · ■ ■ ■ 3 ■ ■ ■ ■ · · ■ 4
+■ ■ ■ · ■ · · 4 ■ 3 · · ■ ■ · ■ ■
+5 · ■ ■ ■ · ■ ■ ■ ■ ■ ■ · ■ · ■ 3
+· · ■ · · ■ · · · · · ■ · ■ · ■ ·
+· ■ ■ ■ 3 ■ · · · · · ■ 3 ■ ■ ■ ·
+■ ■ · 3 ■ ■ · · 19 · · ■ ■ 3 · ■ ■
+· ■ · ■ 3 ■ · · · · · ■ 3 ■ · ■ ·
+· ■ ■ ■ · ■ · · · · · ■ · ■ ■ ■ ·
+D · · ■ · ■ ■ ■ ■ ■ ■ ■ · ■ · ■ 3
+■ ■ · ■ ■ · · 3 ■ E · ■ ■ ■ · ■ ■
+3 ■ · · ■ ■ ■ ■ 3 ■ · · · · · ■ 3
+· ■ · · · · · ■ · ■ · · · · · ■ ·
+· ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ ·
+■ ■ · 2 ■ 2 · ■ ■ ■ · 2 ■ 2 · ■ ■
+# Number of solutions found: 1
+# CPU time: 30.38 s
 ================================= 65 =================================
-# Encoding time: 1.647 s
+# Encoding time: 1.662 s
 ■ 5 · · · · ■ ■ ■ · · · · · · · · · ·
 ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ · ·
 ■ 3 · · ■ · ■ 2 ■ · 4 ■ 4 · · · ■ ■ ?
@@ -707,9 +821,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '64']' timed out after 
 2 ■ · ■ 2 · ■ · ■ · 2 ■ · · ■ ■ · · ■
 ■ ■ 6 ■ ■ ■ ■ 2 ■ ■ ■ · · 6 · ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 9.62 s
+# CPU time: 1.791 s
 ================================= 66 =================================
-# Encoding time: 0.4111 s
+# Encoding time: 0.4331 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ · ■ 4 · · · ■ · · · ■ · · · 4 ■
 ■ · ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ ■ ■ ■ ■
@@ -718,48 +832,48 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '64']' timed out after 
 ■ · ■ 2 · ■ · · ■ · ■ · · · ■ 1 ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 6.585 s
+# CPU time: 0.4759 s
 ================================= 67 =================================
-# Encoding time: 0.01535 s
+# Encoding time: 0.01534 s
 2 · ■
 ■ ■ ■
 · 3 ·
 # Number of solutions found: 1
-# CPU time: 0.01798 s
+# CPU time: 0.0174 s
 ================================= 68 =================================
-# Encoding time: 0.01562 s
+# Encoding time: 0.01559 s
 3 · ·
 ■ ■ ■
 · 3 ·
 # Number of solutions found: 1
-# CPU time: 0.01828 s
+# CPU time: 0.01782 s
 ================================= 69 =================================
-# Encoding time: 0.01593 s
+# Encoding time: 0.01547 s
 2 · ■
 ■ ■ ■
 2 · ■
 # Number of solutions found: 1
-# CPU time: 0.01852 s
+# CPU time: 0.01719 s
 ================================= 70 =================================
-# Encoding time: 0.04406 s
+# Encoding time: 0.04704 s
 ■ ■ ■ ■ ■
 ■ 1 ■ · ■
 ■ ■ ■ · ■
 ■ · 5 · ■
 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.051 s
+# CPU time: 0.05139 s
 ================================= 71 =================================
-# Encoding time: 0.04918 s
+# Encoding time: 0.05184 s
 ■ ■ ■ ■ ■
 ■ 1 ■ 1 ■
 ■ ■ ■ ■ ■
 ■ · 3 · ■
 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.05579 s
+# CPU time: 0.0563 s
 ================================= 72 =================================
-# Encoding time: 0.3216 s
+# Encoding time: 0.3261 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ 17 · · · · · · ■ ·
 1 ■ · ■ ■ ■ ■ · ■ ·
@@ -771,11 +885,23 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '64']' timed out after 
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ·
 ■ · · 3 ■ · 2 ■ · A
 # Number of solutions found: 1
-# CPU time: 9.614 s
+# CPU time: 1.398 s
 ================================= 73 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '73']' timed out after 60 seconds
+# Encoding time: 1.01 s
+■ ■ ■ · · 9 · · ■ · · 4 ■ · · · ■ 1
+■ · · · ■ ■ ■ ■ ■ · ■ ■ ■ · ■ ■ ■ ■
+■ · ■ ■ ■ 8 · · ■ ■ ■ 7 · · ■ · · 3
+■ ■ ■ · ■ ■ ■ · · · ■ ■ ■ ■ ■ ■ ■ ■
+· ■ · · · 6 ■ ■ ■ · ■ 1 ■ · · · ■ 5
+2 ■ · ■ ■ ■ 2 · ■ · ■ ■ 8 · · · ■ ·
+■ ■ ■ ■ · · ■ ■ ■ ■ · · ■ ■ ■ · ■ ·
+3 · · ■ · ■ 4 · · · ■ · 5 · ■ ■ ■ ·
+■ ■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ · ■ ·
+9 · · · · ■ 2 · ■ · · · 8 · · · ■ ■
+# Number of solutions found: 1
+# CPU time: 1.183 s
 ================================= 74 =================================
-# Encoding time: 0.05976 s
+# Encoding time: 0.06067 s
 12 · · ■ 3
 · · · ■ ·
 · · · ■ ·
@@ -783,9 +909,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '73']' timed out after 
 · · · ■ ·
 · · · ■ 2
 # Number of solutions found: 1
-# CPU time: 0.07666 s
+# CPU time: 0.06995 s
 ================================= 75 =================================
-# Encoding time: 0.05891 s
+# Encoding time: 0.05965 s
 12 · · ■ 4
 · · · ■ ·
 · · · ■ ·
@@ -793,9 +919,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '73']' timed out after 
 · · · ■ ■
 · · · ■ 1
 # Number of solutions found: 1
-# CPU time: 0.07546 s
+# CPU time: 0.06847 s
 ================================= 76 =================================
-# Encoding time: 0.05897 s
+# Encoding time: 0.06082 s
 12 · · ■ 2
 · · · ■ ·
 · · · ■ ■
@@ -803,9 +929,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '73']' timed out after 
 · · · ■ ·
 · · · ■ 3
 # Number of solutions found: 1
-# CPU time: 0.07775 s
+# CPU time: 0.07032 s
 ================================= 77 =================================
-# Encoding time: 0.1416 s
+# Encoding time: 0.144 s
 ■ ■ ■ ■ ■ ■ ■
 ■ · ■ · ■ · ■
 3 · ■ 2 ■ 2 ■
@@ -814,9 +940,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '73']' timed out after 
 · ■ ■ · ■ · ■
 ■ ■ 1 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1686 s
+# CPU time: 0.1543 s
 ================================= 78 =================================
-# Encoding time: 0.2764 s
+# Encoding time: 0.2797 s
 · · · ■ · · · ■ ·
 · · · ■ · · · ■ ·
 · · 9 ■ · 8 ■ ■ ·
@@ -827,9 +953,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '73']' timed out after 
 2 ■ · ■ · 4 ■ · ·
 · ■ 2 ■ · · ■ · ·
 # Number of solutions found: 1
-# CPU time: 3.179 s
+# CPU time: 0.8408 s
 ================================= 79 =================================
-# Encoding time: 0.2822 s
+# Encoding time: 0.2761 s
 ■ ■ ■ · · · ■ · ·
 ■ 1 ■ · 6 · ■ 4 ·
 · ■ ■ ■ ■ ■ ■ ■ ■
@@ -840,9 +966,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '73']' timed out after 
 · 5 ■ ■ 8 · ■ 7 ·
 · · · ■ · · ■ · ·
 # Number of solutions found: 1
-# CPU time: 0.5744 s
+# CPU time: 0.3152 s
 ================================= 80 =================================
-# Encoding time: 0.3698 s
+# Encoding time: 0.3665 s
 · · · · · · · · · ·
 · ■ ■ ■ ■ ■ ■ ■ ■ ·
 · ■ · ■ 1 ■ · 4 ■ ·
@@ -854,13 +980,53 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '73']' timed out after 
 · 25 ■ ■ ■ ■ ■ ■ ■ ·
 · · · · · · · · · ·
 # Number of solutions found: 1
-# CPU time: 0.8344 s
+# CPU time: 0.4143 s
 ================================= 81 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '81']' timed out after 60 seconds
+# Encoding time: 1.478 s
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+· · ■ · · ■ · · ■ · · ■
+· ■ ■ ■ · ■ · · ■ · · ■
+· ■ · ■ · ■ · · ■ · · ■
+· ■ · ■ · ■ ■ 7 ■ ■ 7 ■
+· ■ · ■ · ■ 2 ■ · 2 ■ 16
+· ■ · ■ 7 ■ · ■ ■ ■ ■ ·
+· ■ · · ■ 2 ■ · ■ · ■ ·
+· ■ ■ 7 ■ · ■ · ■ 2 ■ ·
+· ■ 2 ■ ■ ■ ■ · · ■ ■ ·
+· ■ · ■ · 7 ■ ■ · ■ · ·
+· ■ ■ ■ · ■ 2 ■ · ■ · ·
+· ■ · · · ■ · ■ 7 ■ ■ ·
+· ■ ■ ■ · ■ ■ ■ ■ 2 ■ ·
+· ■ · 7 ■ ■ · · ■ · ■ ·
+· ■ · ■ 2 · ■ · · ■ ■ ·
+· ■ · ■ ■ ■ ■ ■ 7 · ■ ·
+· ■ · · · ■ · 2 ■ · ■ ·
+· ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ·
+· · · · · · · 1B ■ · · ·
+■ ■ ■ ■ ■ ■ ■ ■ ■ · · ·
+# Number of solutions found: 1
+# CPU time: 1.839 s
 ================================= 82 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '82']' timed out after 60 seconds
+# Encoding time: 0.8221 s
+· ■ · · · · · · · · · ·
+· ■ ■ ■ ■ ■ C ■ ■ ■ ■ ·
+· · · · ■ B ■ 1 ■ · ■ ■
+· ■ ■ A ■ · ■ ■ ■ 2 ■ ·
+· ■ 9 ■ ■ · · · ■ ■ 3 ·
+· ■ · · ■ ■ ■ · · ■ ■ ■
+■ ■ ■ · · · ■ · ■ ■ 4 ·
+■ · 8 ■ ■ · ■ · ■ 5 ■ ·
+■ · ■ 7 ■ · ■ · ■ · ■ ·
+■ · ■ · ■ · ■ · ■ · ■ ■
+■ · ■ · ■ ■ ■ ■ ■ · · ■
+■ · ■ · · ■ 6 · · ■ ■ ■
+■ · ■ · · ■ · · · ■ · ·
+■ · ■ ■ ■ ■ ■ ■ ■ ■ · ·
+■ ■ ■ D · · · · · · · ·
+# Number of solutions found: 1
+# CPU time: 3.584 s
 ================================= 83 =================================
-# Encoding time: 0.414 s
+# Encoding time: 0.4087 s
 2 · ■ · · · ■ ■ · 2
 ■ ■ ■ · · ■ 2 ■ ■ ■
 ■ 2 ■ · 7 ■ · ■ · ■
@@ -871,9 +1037,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '82']' timed out after 
 ■ ■ · · ■ ■ ■ ■ ■ ·
 ■ 1 ■ ■ ■ · 2 ■ 4 ·
 # Number of solutions found: 1
-# CPU time: 0.5157 s
+# CPU time: 0.438 s
 ================================= 84 =================================
-# Encoding time: 2.028 s
+# Encoding time: 2.043 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 1
 · ■ · ■ 1 ■ 1 ■ 3 ■ · · · ■ ■
 · ■ · ■ ■ ■ ■ · · ■ ■ ■ · · ·
@@ -890,9 +1056,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '82']' timed out after 
 ■ ■ ■ · ■ · 3 ■ 1 ■ 2 · ■ · ·
 6 · · · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 3.846 s
+# CPU time: 2.168 s
 ================================= 85 =================================
-# Encoding time: 0.6992 s
+# Encoding time: 0.7085 s
 · ■ ■ ■ ■ ■ ■ ■ 1 ■ ■ ■
 · ■ · · · ■ · 2 ■ ■ · ■
 · ■ · ■ ■ ■ ■ ■ · ■ · ■
@@ -906,9 +1072,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '82']' timed out after 
 ■ · ■ ■ 4 · · ■ · · ■ ·
 ■ ■ ■ 1 ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 3.535 s
+# CPU time: 0.7542 s
 ================================= 86 =================================
-# Encoding time: 0.3219 s
+# Encoding time: 0.3277 s
 ? ■ ■ ■ ■ ■ ■ ■ ■ ■
 · ■ · · ■ · · · · ■
 · ■ · · ■ 5 ■ ■ ■ ■
@@ -920,9 +1086,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '82']' timed out after 
 · ■ ■ · ■ ■ ■ · ■ ·
 · · ■ · · · · · · ·
 # Number of solutions found: 1
-# CPU time: 4.911 s
+# CPU time: 0.544 s
 ================================= 87 =================================
-# Encoding time: 2.67 s
+# Encoding time: 2.687 s
 ■ 3 ■ · · 3 ■ · · · · · · 9 ■ 6 ■
 ■ · ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ ■ ■ · ■
 ■ · ■ 1 ■ · ■ 1 ■ · ■ 2 · ■ · · ■
@@ -941,9 +1107,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '82']' timed out after 
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ ■ ■
 ■ 1 ■ · · 5 · · ■ 1 ■ ■ ■ 3 · · ■
 # Number of solutions found: 1
-# CPU time: 3.586 s
+# CPU time: 2.866 s
 ================================= 88 =================================
-# Encoding time: 0.3956 s
+# Encoding time: 0.4041 s
 · ■ ■ ■ ■ ■ ■ ■ ■ ■
 · ■ 6 · · · · ■ · ■
 · 5 ■ ■ ■ ■ · ■ · ■
@@ -955,15 +1121,56 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '82']' timed out after 
 ■ 1 ■ ■ ■ ■ ■ 8 ■ ■
 ■ ■ ■ · · · · · · ·
 # Number of solutions found: 1
-# CPU time: 1.85 s
+# CPU time: 0.4369 s
 ================================= 89 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '89']' timed out after 60 seconds
+# Encoding time: 2.055 s
+■ ■ ■ ■ ■ ■ ■ · · · ■ ■ ■ 2 ■ ■ ■
+■ · · · ■ · · ■ · ■ ■ · ■ · ■ · ■
+■ · ■ ■ ■ ■ 3 ■ 5 ■ · · ■ ■ ■ · ■
+■ · ■ · · 3 ■ ■ ■ · · ■ 2 · ■ · ■
+■ · ■ ■ ■ ■ 5 ■ 7 · ■ ■ ■ ■ ■ · ■
+■ · ■ · · · · ■ ■ ■ · · · · · · ■
+■ · ■ ■ ■ ■ ■ ■ 1 ■ · ■ ■ ■ · · ■
+■ · ■ · ■ · 2 ■ ■ · · ■ 1 ■ ■ · ■
+■ · ■ 2 ■ ■ ■ 18 ■ 18 ■ ■ ■ 1 ■ · ■
+■ · ■ ■ 1 ■ · · ■ ■ 3 · · ■ ■ · ■
+■ · · ■ ■ · · ■ 2 · ■ ■ ■ ■ · · ■
+■ · · · · · ■ ■ ■ ■ · · · ■ · · ■
+■ · ■ ■ ■ ■ ■ · A ■ 4 ■ ■ ■ ■ · ■
+■ ■ ■ · 4 ■ · · ■ ■ ■ 3 · · ■ ■ ■
+· ■ · · ■ · · ■ 2 ■ 8 ■ ■ ■ ■ · ■
+· ■ ■ ■ ■ · · ■ · ■ · · · · · · ■
+· · · 6 ■ · · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 6.89 s
 ================================= 90 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '90']' timed out after 60 seconds
+# Encoding time: 3.63 s
+■ ■ · · 3 ■ ■ ■ · 3 · ■ ■ ■ ■ 6 · · · ·
+■ · ■ ■ ■ 4 · ■ ■ ■ ■ ■ · · ■ ■ ■ ■ ■ ·
+■ · 3 ■ · · ■ 5 · · · ■ · ■ · ■ · 2 ■ ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ · ■ 5 · ■ · ■ ■ ■ 2 ·
+■ · ■ · · 4 ■ · 5 ■ ■ ■ ■ ■ · 4 ■ · ■ ■
+■ 2 ■ ■ · ■ · · · ■ · · · 5 ■ ■ ■ · ■ ·
+■ ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ · ■ ■ · · · ■ ·
+· ■ · 3 ■ · ■ · · · · A ■ ■ · · ■ ■ ■ 6
+· ■ ■ ■ · 3 ■ · · ■ ■ ■ · ■ · ■ 5 ■ · ·
+· · · ■ ■ ■ · · ■ 4 · ■ 4 ■ · ■ · ■ ■ ·
+■ ■ · · ■ 3 ■ · ■ ■ · ■ · ■ · ■ · ■ 5 ■
+· ■ ■ B ■ · ■ ■ A ■ · ■ · ■ · ■ · ■ · ■
+· 4 ■ · ■ · ■ · · ■ ■ ■ ■ ■ · ■ · ■ · ■
+· ■ ■ · ■ ■ ■ · · · · · ■ · · ■ ■ ■ · ■
+■ 1 ■ · ■ · ■ ■ · · ■ ■ ■ · ■ ■ · ■ · ■
+■ ■ ■ ■ ■ · ■ 2 ■ ■ 13 ■ · · ■ 4 · ■ ■ ■
+■ · · · · · ■ · ■ · · ■ ■ · · ■ · ■ · ■
+■ · ■ ■ ■ · ■ ■ ■ · ■ ■ 3 ■ · ■ ■ ■ · ■
+■ · ■ 2 ■ · · · · · ■ · · ■ · · · · 1B ■
+■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 11.86 s
 ================================= 91 =================================
 Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '91']' timed out after 60 seconds
 ================================= 92 =================================
-# Encoding time: 0.7424 s
+# Encoding time: 0.7416 s
 ■ ■ ■ ■ ■ ■ · 8 ■ ■ ■ ■
 ■ · · · ■ · · ■ 1 ■ · ■
 ■ · 6 ■ ■ · ■ ■ ■ ■ · ■
@@ -977,9 +1184,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '91']' timed out after 
 ■ · ■ · · ■ ■ ■ · 2 ■ ·
 ■ ■ ■ ■ · · · ■ ■ ■ 5 ·
 # Number of solutions found: 1
-# CPU time: 4.223 s
+# CPU time: 0.8002 s
 ================================= 93 =================================
-# Encoding time: 0.3685 s
+# Encoding time: 0.3664 s
 ■ ■ ■ 7 · · · · ■ ■
 ■ · 6 ■ ■ ■ ■ · ■ ·
 ■ ■ · · ■ 1 ■ · ■ ·
@@ -991,9 +1198,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '91']' timed out after 
 ■ · ■ ■ ■ · ■ 2 · ■
 ■ ■ ■ · · · 5 ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 2.639 s
+# CPU time: 0.4263 s
 ================================= 94 =================================
-# Encoding time: 0.413 s
+# Encoding time: 0.4111 s
 ■ 4 ■ ■ ■ 4 ■ · 3 ■
 ■ · · ■ · · ■ · ■ ■
 ■ ■ · ■ ■ · ■ ■ 7 ■
@@ -1005,9 +1212,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '91']' timed out after 
 3 · ■ · · · 5 ■ · ■
 · ■ ■ ■ ■ ■ ■ ■ 4 ·
 # Number of solutions found: 1
-# CPU time: 0.5849 s
+# CPU time: 0.4465 s
 ================================= 95 =================================
-# Encoding time: 0.4176 s
+# Encoding time: 0.4132 s
 · · · ■ ■ ■ ■ · · ·
 · 6 ■ ■ · · ■ ■ 6 ·
 · ■ 1 ■ ■ · ■ 1 ■ ·
@@ -1019,20 +1226,13 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '91']' timed out after 
 · A ■ ■ · · ■ ■ A ·
 · · · · · ■ ■ · · ·
 # Number of solutions found: 1
-# CPU time: 1.41 s
+# CPU time: 0.4657 s
 ================================= 96 =================================
-# Encoding time: 0.2085 s
-■ ■ ■ 1 ■ ■ ■
-■ 1 ■ ■ ■ 1 ■
-■ ■ 1 ■ 1 ■ 1
-1 ■ ■ ■ ■ ■ ■
-■ ■ 1 ■ 1 ■ 1
-■ 1 ■ ■ ■ 1 ■
-■ ■ ■ 1 ■ ■ ■
-# Number of solutions found: 1
-# CPU time: 0.2244 s
+# Encoding time: 0.2093 s
+# Number of solutions found: 0
+# CPU time: 0.2155 s
 ================================= 97 =================================
-# Encoding time: 0.3668 s
+# Encoding time: 0.3674 s
 14 · ■ 1 ■ · ■ · · ·
 · · ■ ■ ■ 2 ■ 6 · ·
 · · · ■ 6 ■ ■ ■ ■ ■
@@ -1044,9 +1244,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '91']' timed out after 
 · ■ ■ · ■ ■ ■ · · ■
 · ■ 3 · ■ 1 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 2.056 s
+# CPU time: 0.5347 s
 ================================= 98 =================================
-# Encoding time: 0.07187 s
+# Encoding time: 0.07329 s
 · · 7 · · ·
 · ■ ■ ■ ■ ■
 ■ ■ 8 ■ · ·
@@ -1054,15 +1254,44 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '91']' timed out after 
 · · ■ ■ · ·
 · · ■ · 9 ·
 # Number of solutions found: 1
-# CPU time: 0.2133 s
+# CPU time: 0.1166 s
 ================================= 99 =================================
 Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '99']' timed out after 60 seconds
 ================================= 100 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '100']' timed out after 60 seconds
+# Encoding time: 0.7903 s
+64 · · · · · · · · · · · · ·
+· · · · · · · · · · · · · ·
+· · · ■ ■ ■ ■ ■ ■ ■ ■ · · ·
+· · ■ · · ■ · · ■ · 2 ■ · ·
+· · ■ · · ■ 4 · ■ ■ ■ ■ · ·
+· · ■ ■ 5 ■ ■ ■ 5 · · ■ · ·
+· · ■ 2 ■ ■ · · ■ · · ■ · ·
+· · ■ · ■ · · · ■ ■ ■ ■ · ·
+· · ■ ■ ■ 8 · · ■ 3 · ■ · ·
+· · ■ · 4 ■ ■ ■ ■ · ■ ■ · ·
+· · ■ · · ■ · 3 · ■ 1 ■ · ·
+· · · ■ ■ ■ ■ ■ ■ ■ ■ · · ·
+· · · · · · · · · · · · · ·
+· · · · · · · · · · · · · ·
+# Number of solutions found: 1
+# CPU time: 11.51 s
 ================================= 101 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '101']' timed out after 60 seconds
+# Encoding time: 0.9291 s
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+■ 39 · · · · · ■ 2 ■ · · · · · · · · ■
+■ ■ ■ ■ ■ ■ · ■ · ■ · ■ ■ ■ ■ ■ ■ · ■
+■ 1 ■ 2 · ■ · ■ ■ ■ · ■ 4 · · · ■ · ■
+■ ■ ■ ■ ■ ■ · ■ · ■ · ■ ■ ■ ■ ■ ■ · ■
+■ · · · · · · ■ 2 ■ · ■ · ■ · · · · ■
+■ · ■ ■ ■ ■ ■ ■ ■ ■ · ■ 3 ■ · ■ ■ ■ ■
+■ · ■ 1 ■ 1 ■ · · · · ■ · ■ · ■ 2 · ■
+■ · ■ ■ ■ ■ ■ · ■ ■ ■ ■ ■ ■ · ■ ■ ■ ■
+■ · · · · · · · ■ 1 ■ 2 · ■ · · · · ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 1.04 s
 ================================= 102 =================================
-# Encoding time: 2.813 s
+# Encoding time: 2.861 s
 3 · ■ · ■ · · 3 ■ · 7 ■ · 3 ■ · 3 ·
 · ■ ■ 2 ■ ■ ■ ■ ■ · · ■ · ■ ■ ■ ■ ■
 ■ ■ · ■ ■ · 4 ■ · · · ■ ■ 1 ■ · 3 ·
@@ -1079,9 +1308,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '101']' timed out after
 · ■ · ■ ■ ■ ■ ■ ■ ■ 3 ■ · ■ ■ ■ ■ ■
 2 ■ · 3 ■ · · 3 ■ · · ■ · 3 ■ · 3 ·
 # Number of solutions found: 1
-# CPU time: 26.36 s
+# CPU time: 3.071 s
 ================================= 103 =================================
-# Encoding time: 0.4583 s
+# Encoding time: 0.4549 s
 ■ ■ ■ ■ ■ · · ■ · ·
 · ■ 2 · ■ · · ■ 4 ·
 · 3 ■ ■ ■ ■ 5 ■ ■ ■
@@ -1093,9 +1322,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '101']' timed out after
 · 4 ■ · · · ■ · ■ ·
 · · ■ · · · ■ · ■ ·
 # Number of solutions found: 1
-# CPU time: 0.6644 s
+# CPU time: 0.4915 s
 ================================= 104 =================================
-# Encoding time: 0.3625 s
+# Encoding time: 0.3753 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ · ■ · ■ · · · ■ 2 ■
 ■ 2 ■ · 7 · ■ ■ ■ · ■
@@ -1107,9 +1336,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '101']' timed out after
 ■ · ■ · · · · · · · ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 6.281 s
+# CPU time: 0.4066 s
 ================================= 105 =================================
-# Encoding time: 0.4585 s
+# Encoding time: 0.4638 s
 · 4 · ■ 7 · ■ 6 · · ·
 · ■ ■ ■ ■ · ■ ■ ■ ■ ·
 ■ 3 ■ · ■ · · · · ■ ·
@@ -1121,9 +1350,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '101']' timed out after
 · 6 ■ ■ ■ ■ ■ · ■ 4 ·
 · · · · ■ · · · ■ · ·
 # Number of solutions found: 1
-# CPU time: 2.33 s
+# CPU time: 0.5223 s
 ================================= 106 =================================
-# Encoding time: 0.434 s
+# Encoding time: 0.4336 s
 4 · · · ■ · ? · · ·
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ·
 · · ■ · ■ · · · ■ ■
@@ -1135,9 +1364,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '101']' timed out after
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 4 · · · ■ · 4 · · ■
 # Number of solutions found: 1
-# CPU time: 0.9169 s
+# CPU time: 0.4689 s
 ================================= 107 =================================
-# Encoding time: 0.3983 s
+# Encoding time: 0.3927 s
 7 · · ■ · · · · · ·
 ■ · ■ ■ ■ ■ ■ ■ · 8
 ■ · ■ 1 ■ · 2 ■ ■ ■
@@ -1149,11 +1378,28 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '101']' timed out after
 ■ ■ · ■ 1 ■ · ■ · 6
 6 · · ■ ■ ■ D ■ · ·
 # Number of solutions found: 1
-# CPU time: 0.7951 s
+# CPU time: 0.4445 s
 ================================= 108 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '108']' timed out after 60 seconds
+# Encoding time: 1.111 s
+■ ■ ■ ■ ■ ■ ■ ■ ■ 4 · · ■ ■ ■
+■ · ■ · · ■ 4 · ■ ■ ■ · ■ · ■
+■ · ■ ■ 4 · ■ · · ■ 2 ■ ■ · ■
+■ · · · ■ ■ ■ ■ ■ ■ · ■ · · ■
+■ ■ ■ · · · · ■ · ■ ■ ■ · · ■
+2 ■ 2 ■ ■ ■ · ■ 3 · ■ · · ■ ■
+· ■ · ■ 2 ■ · · ■ ■ ■ · ■ 2 ■
+■ ■ ■ ■ · ■ ■ · · · · · ■ · ■
+■ · · · ■ ■ 5 ■ ■ ■ · · ■ ■ ■
+■ ■ ■ · ■ · · · · ■ ■ · · · ■
+2 · ■ · ■ ■ ■ ■ ■ ■ · ■ ■ · ■
+■ ■ ■ · · ■ 3 · · ■ · 3 ■ · ■
+· · · · · · ■ ■ ■ ■ ■ ■ ■ · ■
+· ■ ■ ■ ■ · · · · · · · · · ■
+? ■ 2 · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 20.14 s
 ================================= 109 =================================
-# Encoding time: 0.7489 s
+# Encoding time: 0.7616 s
 ■ ■ ■ ■ ■ · · ■ ■ ■ ■ ■
 ■ · ■ · ■ · ■ ? · ■ · ■
 ■ · ■ · ■ 4 ■ ■ ■ ■ · ■
@@ -1167,9 +1413,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '108']' timed out after
 ■ · ■ ■ 4 ■ ■ · · · ■ ·
 ■ ■ ■ · · · ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 10.47 s
+# CPU time: 0.9095 s
 ================================= 110 =================================
-# Encoding time: 0.4183 s
+# Encoding time: 0.4408 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ · ■ · ■ 3 · · ■ · ■
 ■ · ■ · ■ ■ ■ ■ ■ · ■
@@ -1182,9 +1428,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '108']' timed out after
 ■ · ■ · · 8 · · · · ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 2.444 s
+# CPU time: 0.4762 s
 ================================= 111 =================================
-# Encoding time: 0.3888 s
+# Encoding time: 0.3983 s
 · 3 · ■ 4 ■ 5 ■ · 2
 ■ ■ ■ ■ · ■ · ■ ■ ■
 2 · ■ · · ■ · ■ · 4
@@ -1196,9 +1442,9 @@ B · · · · ■ · ■ ■ ■
 7 ■ ■ ■ · ■ ■ ■ ■ ■
 · · · · · ■ 4 · · ·
 # Number of solutions found: 1
-# CPU time: 17.04 s
+# CPU time: 0.4615 s
 ================================= 112 =================================
-# Encoding time: 0.3625 s
+# Encoding time: 0.368 s
 ■ ■ ■ ■ ■ ■ ■ 6 · ·
 · ■ · · · · ■ ■ ■ ·
 · ■ ■ ■ ■ 5 ■ 2 ■ ·
@@ -1210,9 +1456,9 @@ B · · · · ■ · ■ ■ ■
 · ■ ■ ■ ■ ■ ■ · ■ ·
 A · ■ · · · · · ■ ■
 # Number of solutions found: 1
-# CPU time: 7.596 s
+# CPU time: 0.4182 s
 ================================= 113 =================================
-# Encoding time: 0.3391 s
+# Encoding time: 0.358 s
 · · · 7 ■ · ■ ■ ■ ■
 · ■ ■ ■ ■ 2 ■ · · ■
 · ■ · · ■ ■ ■ 4 · ■
@@ -1224,9 +1470,9 @@ A · ■ · · · · · ■ ■
 ■ ■ ■ · ■ · ■ D · ■
 ■ 1 ■ 3 ■ 2 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 30.24 s
+# CPU time: 0.9577 s
 ================================= 114 =================================
-# Encoding time: 0.09409 s
+# Encoding time: 0.0945 s
 ■ 2 · ■ ■ ■
 ■ ■ ■ ■ · ■
 ■ · 2 ■ 2 ■
@@ -1234,9 +1480,9 @@ A · ■ · · · · · ■ ■
 · ■ 2 · ■ ·
 ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1079 s
+# CPU time: 0.1017 s
 ================================= 115 =================================
-# Encoding time: 0.2553 s
+# Encoding time: 0.256 s
 · ■ 2 · ■ 2 ■ ·
 · ■ ■ ■ ■ · ■ ·
 3 ■ · 2 ■ ■ ■ 3
@@ -1246,9 +1492,9 @@ A · ■ · · · · · ■ ■
 ■ ■ · ■ ■ ■ ■ ■
 ■ · 3 ■ · 4 · ·
 # Number of solutions found: 1
-# CPU time: 0.3071 s
+# CPU time: 0.2746 s
 ================================= 116 =================================
-# Encoding time: 0.3015 s
+# Encoding time: 0.3027 s
 · · · ■ ■ ■ ■ · · ■
 · 6 ■ ■ · · · 1A ■ ■
 · ■ ■ · · ■ ■ ■ 2 ■
@@ -1260,29 +1506,22 @@ A · ■ · · · · · ■ ■
 ■ · · · · ■ ■ ■ ■ ·
 ■ ■ ■ ■ ■ ■ 6 · · ·
 # Number of solutions found: 1
-# CPU time: 8.022 s
+# CPU time: 1.829 s
 ================================= 117 =================================
-# Encoding time: 0.04908 s
+# Encoding time: 0.04933 s
 2 ■ ■ ■ ■
 · ■ 2 · ■
 ■ ■ ■ ■ ■
 ■ · 3 · ■
 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.05741 s
+# CPU time: 0.05452 s
 ================================= 118 =================================
-# Encoding time: 0.1317 s
-■ ■ ■ ■ ■ ■ 1
-■ · ■ · 2 ■ ■
-■ · ■ ■ ■ 3 ■
-■ · ■ · ■ · ■
-■ · ■ · ■ · ■
-■ 5 ■ · ■ ■ ■
-■ ■ ■ 4 ■ 1 ■
-# Number of solutions found: 1
-# CPU time: 0.1572 s
+# Encoding time: 0.1379 s
+# Number of solutions found: 0
+# CPU time: 0.1419 s
 ================================= 119 =================================
-# Encoding time: 0.4151 s
+# Encoding time: 0.4137 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ · · ■ · · · ■ · ■
 ■ 3 ■ ■ ■ · ■ ■ 2 ■
@@ -1294,9 +1533,9 @@ A · ■ · · · · · ■ ■
 ■ · ■ · · · · · · ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.7457 s
+# CPU time: 0.4609 s
 ================================= 120 =================================
-# Encoding time: 0.4514 s
+# Encoding time: 0.4567 s
 2 · ■ 2 · ■ 2 · ■ 2
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ·
 · ■ · ■ 2 · ■ · ■ ■
@@ -1308,11 +1547,11 @@ A · ■ · · · · · ■ ■
 · ■ ■ ■ ■ · · · ■ ■
 2 ■ · 2 ■ · · · · 16
 # Number of solutions found: 1
-# CPU time: 0.5773 s
+# CPU time: 0.4989 s
 ================================= 121 =================================
 Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after 60 seconds
 ================================= 122 =================================
-# Encoding time: 0.1202 s
+# Encoding time: 0.1205 s
 · · · 7 ■ ■ ■
 · ■ ■ ■ 2 · ■
 · ■ · 6 ■ ■ ■
@@ -1321,9 +1560,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · · ■ · ■ ·
 ■ ■ ■ ■ ■ ■ ·
 # Number of solutions found: 1
-# CPU time: 0.1874 s
+# CPU time: 0.1321 s
 ================================= 123 =================================
-# Encoding time: 0.1213 s
+# Encoding time: 0.1206 s
 · · · · · · ■
 · ■ ■ ■ ■ ■ ■
 8 ■ 3 · · ■ ·
@@ -1332,9 +1571,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · ■ ■ ■ ■ ·
 ■ ■ ■ 8 · · ·
 # Number of solutions found: 1
-# CPU time: 0.1991 s
+# CPU time: 0.1299 s
 ================================= 124 =================================
-# Encoding time: 0.1506 s
+# Encoding time: 0.1503 s
 · · ■ ■ 3 · ·
 · · ■ 1 ■ ■ ■
 5 ■ ■ ■ ■ · ■
@@ -1343,9 +1582,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 · · ■ 1 ■ · ·
 · · 5 ■ ■ · ·
 # Number of solutions found: 1
-# CPU time: 0.1779 s
+# CPU time: 0.1617 s
 ================================= 125 =================================
-# Encoding time: 0.4088 s
+# Encoding time: 0.4121 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 · ■ · ■ · 2 ■ · ■ ·
 · ■ · ■ ■ ■ · 3 ■ ·
@@ -1357,18 +1596,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · · ■ 4 · · · ■ ·
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.642 s
+# CPU time: 0.4388 s
 ================================= 126 =================================
-# Encoding time: 0.05532 s
+# Encoding time: 0.05368 s
 ■ ■ ■ ■ ■
 ■ · ■ 2 ■
 ■ 2 ■ · ■
 2 ■ ■ ■ ■
 · ■ 2 · ■
 # Number of solutions found: 1
-# CPU time: 0.06369 s
+# CPU time: 0.05818 s
 ================================= 127 =================================
-# Encoding time: 0.4286 s
+# Encoding time: 0.4325 s
 ■ ■ ■ 2 ■ 6 · · · ·
 ■ 1 ■ · ■ · ■ ■ ■ ■
 ■ ■ ■ ■ ■ ■ E ■ · 2
@@ -1380,9 +1619,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · · · · ■ ■ ■ 1 ■
 ■ ■ ■ ■ ■ ■ 2 · ■ ■
 # Number of solutions found: 1
-# CPU time: 0.6372 s
+# CPU time: 0.4833 s
 ================================= 128 =================================
-# Encoding time: 0.2726 s
+# Encoding time: 0.2761 s
 ■ ■ ■ · ■ · · ■ ■
 ■ 1 ■ 2 ■ 3 ■ 4 ■
 · ■ ■ ■ ■ ■ ■ · ■
@@ -1393,9 +1632,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ · · 3 ■ 3 · · ■
 # Number of solutions found: 1
-# CPU time: 0.5994 s
+# CPU time: 0.304 s
 ================================= 129 =================================
-# Encoding time: 0.4102 s
+# Encoding time: 0.413 s
 ■ ■ ■ · · · 5 ■ ■ ■
 ■ 1 ■ ■ ■ · ■ 3 · ■
 ■ ■ 2 ■ 1 ■ ■ ■ · ■
@@ -1407,9 +1646,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 · ■ 4 · · ■ ■ ■ 6 ·
 · ■ ■ ■ ■ ■ · · · ·
 # Number of solutions found: 1
-# CPU time: 0.5806 s
+# CPU time: 0.4446 s
 ================================= 130 =================================
-# Encoding time: 0.4178 s
+# Encoding time: 0.4136 s
 3 ■ ■ ■ ■ 4 ■ · · ·
 · ■ 2 ■ · · ■ · 6 ·
 · ■ · ■ · ■ ■ ■ ■ ■
@@ -1421,9 +1660,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ ■ 3 ■ ■ ■ ■ ■ ·
 2 · ■ ■ ■ · · 3 ■ 8
 # Number of solutions found: 1
-# CPU time: 1.358 s
+# CPU time: 0.4449 s
 ================================= 131 =================================
-# Encoding time: 0.4056 s
+# Encoding time: 0.4165 s
 3 ■ ■ ■ ■ 4 ■ · · ·
 · ■ 2 ■ · · ■ · 6 ·
 · ■ · ■ · ■ ■ ■ ■ ■
@@ -1435,9 +1674,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ ■ 3 ■ ■ ■ ■ ■ ·
 2 · ■ ■ ■ · · 3 ■ ?
 # Number of solutions found: 1
-# CPU time: 4.259 s
+# CPU time: 0.6342 s
 ================================= 132 =================================
-# Encoding time: 0.5973 s
+# Encoding time: 0.5937 s
 1 ■ 2 ■ 1 ■ ■ 1 ■ ■
 ■ ■ · ■ ■ 2 ■ ■ 1 ■
 ■ 1 ■ · ■ · ■ 2 ■ ■
@@ -1449,17 +1688,17 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ · 2 ■ ■ ■ 2 ■ ·
 1 ■ ■ ■ 3 · · ■ ■ 3
 # Number of solutions found: 1
-# CPU time: 0.6928 s
+# CPU time: 0.6288 s
 ================================= 133 =================================
-# Encoding time: 0.0427 s
+# Encoding time: 0.04238 s
 1 ■ · ■ ■
 ■ ■ 2 ■ ·
 · ■ ■ ■ ·
 4 · · ■ 3
 # Number of solutions found: 1
-# CPU time: 0.04947 s
+# CPU time: 0.04685 s
 ================================= 134 =================================
-# Encoding time: 0.08003 s
+# Encoding time: 0.07902 s
 ■ ■ ■ ■ ■ ■
 2 ■ · 7 ■ 3
 · ■ · ■ · ·
@@ -1467,9 +1706,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 1 ■ · · · ■
 ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.09798 s
+# CPU time: 0.09041 s
 ================================= 135 =================================
-# Encoding time: 0.1304 s
+# Encoding time: 0.1321 s
 ■ · · 4 ■ ■ ■
 ■ ■ ■ · ■ · ■
 3 · ■ ■ ■ · 5
@@ -1478,9 +1717,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · ■ · ■ ■ ■
 ■ 2 ■ ■ ■ 1 ■
 # Number of solutions found: 1
-# CPU time: 0.1563 s
+# CPU time: 0.1444 s
 ================================= 136 =================================
-# Encoding time: 0.364 s
+# Encoding time: 0.3705 s
 ■ · · · 4 ■ ■ ■ ■
 ■ ■ ■ ■ ■ ■ · · ■
 ■ 1 ■ · · ■ ■ 3 ■
@@ -1492,9 +1731,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ ■ ■ · ■ · · ■
 ■ · · · 6 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.4542 s
+# CPU time: 0.4005 s
 ================================= 137 =================================
-# Encoding time: 0.2793 s
+# Encoding time: 0.284 s
 ■ · · · ■ ■ ■ ■
 ■ ■ ■ · 5 ■ · ■
 ■ 1 ■ ■ ■ ■ · ■
@@ -1507,9 +1746,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · · · · · · ■
 ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 1.612 s
+# CPU time: 0.3326 s
 ================================= 138 =================================
-# Encoding time: 0.3147 s
+# Encoding time: 0.333 s
 7 · · · · ■ ? ■ ■ ■
 · ■ ■ ■ · ■ · ■ ? ■
 ■ 7 ■ 8 ■ ■ ■ ■ · ■
@@ -1521,9 +1760,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · ■ ■ ■ ■ · · · ■
 ■ ■ ■ 3 · · ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 10.84 s
+# CPU time: 0.458 s
 ================================= 139 =================================
-# Encoding time: 0.2575 s
+# Encoding time: 0.257 s
 1 ■ 3 ■ 3 ■ ■ 2
 ■ ■ · ■ · · ■ ·
 2 ■ · ■ ■ ■ ■ ■
@@ -1533,9 +1772,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 · ■ · · ■ · ■ ■
 3 ■ ■ 3 ■ 2 ■ 1
 # Number of solutions found: 1
-# CPU time: 0.308 s
+# CPU time: 0.2738 s
 ================================= 140 =================================
-# Encoding time: 0.4537 s
+# Encoding time: 0.4543 s
 · 2 ■ · ■ ■ ■ ■ ■ ■
 ■ ■ ■ 2 ■ 1 ■ 2 · ■
 ■ · 5 ■ 1 ■ ■ ■ ■ ■
@@ -1547,7 +1786,7 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ 5 ■ 2 · ■ · 2 ■
 · · · · ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.5689 s
+# CPU time: 0.4844 s
 ================================= 141 =================================
 # Encoding time: 2.066 s
 · 2 ■ ■ ■ 4 · · · ■ ■ ■ ■ 2 ·
@@ -1566,9 +1805,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 2 ■ ■ ■ · · ■ ■ ■ ■ ■ ■ ■ · ·
 · ■ 1 ■ ■ ■ ■ · · · · · · · A
 # Number of solutions found: 1
-# CPU time: 3.779 s
+# CPU time: 2.201 s
 ================================= 142 =================================
-# Encoding time: 0.5556 s
+# Encoding time: 0.5612 s
 · · · · ■ ■ ■ · · · ■
 · 7 ■ ■ ■ 1 ■ ■ ■ 4 ■
 · ■ 5 · · ■ ■ · 2 ■ ■
@@ -1581,9 +1820,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · ■ · ■ · ■ ■ ■ · ·
 ■ 2 ■ ■ ■ ■ ■ · · 6 ·
 # Number of solutions found: 1
-# CPU time: 1.84 s
+# CPU time: 0.6154 s
 ================================= 143 =================================
-# Encoding time: 0.3213 s
+# Encoding time: 0.326 s
 ■ ■ ■ ■ ■ ■ 1 ■ ■ ■
 5 · · · · ■ ■ · · ■
 ■ ■ ■ ■ ■ ■ · · ■ ■
@@ -1595,9 +1834,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 · · · · · · · ■ · 5
 · · · 11 · · · ■ ■ ·
 # Number of solutions found: 1
-# CPU time: 6.379 s
+# CPU time: 0.5775 s
 ================================= 144 =================================
-# Encoding time: 0.3529 s
+# Encoding time: 0.3556 s
 1 ■ ■ ■ · · · · ■ ■
 ■ 7 · ■ · · · ■ 8 ■
 ■ · · ■ · · · ■ · ■
@@ -1609,9 +1848,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ 2 ■ 5 · · · ■ · ■
 ■ ■ 1 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 6.53 s
+# CPU time: 0.4019 s
 ================================= 145 =================================
-# Encoding time: 0.3239 s
+# Encoding time: 0.325 s
 · A ■ ■ ■ ■ ■ · · ·
 · ■ 5 · · · ■ ■ ■ ·
 · ■ ■ ■ · ■ 3 · ■ ·
@@ -1623,9 +1862,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · · · ■ · · 4 ■ ·
 ■ ■ ■ ■ ■ ■ ■ ■ B ·
 # Number of solutions found: 1
-# CPU time: 12.56 s
+# CPU time: 0.4204 s
 ================================= 146 =================================
-# Encoding time: 0.7279 s
+# Encoding time: 0.7899 s
 ? ■ ? ■ ■ ? · ■ ■ ?
 ■ ■ ■ ■ ? ■ ■ ■ ? ■
 ■ ? ■ ? ■ ■ · ? ■ ■
@@ -1637,18 +1876,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ ? ■ ■ ■ ■ ■ ■ ■
 ? ■ ■ ? ■ ? ■ ? ■ ?
 # Number of solutions found: 1
-# CPU time: 0.7798 s
+# CPU time: 0.8299 s
 ================================= 147 =================================
-# Encoding time: 0.04856 s
+# Encoding time: 0.04896 s
 ■ ■ ■ ■ ■
 · ■ · · ■
 · ■ ■ · ■
 · · ■ 4 ■
 · 6 ■ ■ 1
 # Number of solutions found: 1
-# CPU time: 0.06543 s
+# CPU time: 0.05562 s
 ================================= 148 =================================
-# Encoding time: 0.1218 s
+# Encoding time: 0.121 s
 ■ ■ ■ ■ ■ ■ ■
 ■ · ■ · ■ · ■
 ■ · ■ · ■ 2 ■
@@ -1657,9 +1896,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · · · 8 ■ ■
 ■ ■ ■ ■ ■ 2 ·
 # Number of solutions found: 1
-# CPU time: 0.1878 s
+# CPU time: 0.1307 s
 ================================= 149 =================================
-# Encoding time: 0.4332 s
+# Encoding time: 0.4339 s
 ■ ■ ■ ■ ■ 1 ■ ■ ■ ■
 3 ■ · 3 ■ ■ A · · ■
 · ■ · ■ · 4 ■ ■ · ■
@@ -1671,9 +1910,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 4 ■ · 4 ■ ■ 1 ■ · ■
 ■ ■ ■ ■ ■ 1 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.5776 s
+# CPU time: 0.4595 s
 ================================= 150 =================================
-# Encoding time: 2.57 s
+# Encoding time: 2.643 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ 3 ■ · 3 · ■ · ■ 3 · · ■ 3 · · ■
 ■ · ■ ■ ■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■
@@ -1692,18 +1931,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ 3 · · ■ 3 · · ■ 3 · · ■ 3 · · ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 3.857 s
+# CPU time: 2.822 s
 ================================= 151 =================================
-# Encoding time: 0.04944 s
+# Encoding time: 0.04885 s
 ■ ■ ■ ■ ■
 ■ · · ■ 2
 ■ ■ 3 ■ ·
 ■ 4 ■ ■ ■
 ■ · · · ■
 # Number of solutions found: 1
-# CPU time: 0.05881 s
+# CPU time: 0.05422 s
 ================================= 152 =================================
-# Encoding time: 0.07193 s
+# Encoding time: 0.07169 s
 · · · · ■ ■
 5 ■ ■ ■ ■ ·
 ■ A · · ■ 2
@@ -1711,9 +1950,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ · · · · ■
 ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1236 s
+# CPU time: 0.08598 s
 ================================= 153 =================================
-# Encoding time: 0.07994 s
+# Encoding time: 0.07984 s
 · · · · ■ ■
 5 ■ ■ ■ · ■
 ■ 2 ■ 3 · ■
@@ -1721,9 +1960,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ ■ · · ■
 7 · · · · ■
 # Number of solutions found: 1
-# CPU time: 0.1079 s
+# CPU time: 0.08794 s
 ================================= 154 =================================
-# Encoding time: 0.3259 s
+# Encoding time: 0.3311 s
 3 ■ · 2 ■ ■ ■ · 4 · ·
 · ■ ■ ■ 2 · ■ ■ ■ ■ ■
 · ■ · 2 ■ ■ ■ · 4 ■ ·
@@ -1732,9 +1971,27 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '121']' timed out after
 ■ ■ ■ ■ ■ · ■ · 8 · ·
 4 · · · ■ 2 ■ · · · ·
 # Number of solutions found: 1
-# CPU time: 0.3983 s
+# CPU time: 0.355 s
 ================================= 155 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after 60 seconds
+# Encoding time: 1.865 s
+■ ■ ■ ■ ■ 1 ■ ■ 1 ■ ■ ■ · · · ·
+■ · ■ · ■ ■ · ■ ■ ■ · 2 ■ · · ·
+■ · ■ · · · · ■ · ■ ■ ■ ■ 8 ■ ■
+■ · ■ ■ · 8 ■ ■ · ■ · · ■ ■ ■ ·
+■ · · ■ ■ ■ · ■ 3 ■ · D · · · ·
+■ ■ · 9 · ■ · · ■ ■ ■ ■ · ■ ■ ·
+· ■ · ■ ■ 3 ■ · · ■ · ■ ■ 2 ■ ·
+2 ■ ■ ■ · · ■ B · ■ 3 · ■ · ■ ·
+■ · ■ · ■ ■ ■ ■ · · ■ ■ ■ ■ ■ ■
+■ 2 ■ · 3 ■ · 3 ■ · · ■ · ■ · ■
+■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ 3 · ■ · ■
+■ · ■ · · · 4 ■ ■ · 6 ■ ■ ■ · ■
+· 7 ■ ■ ■ ■ ■ ■ · · ■ · 3 ■ · ■
+· ■ 1 ■ · · · ■ · · ■ · ■ 6 · ■
+· ■ ■ 7 · · · ■ ■ ■ ■ ■ ■ ■ ■ ■
+· · ■ ■ ■ ■ ■ ■ · · 7 · · · · ■
+# Number of solutions found: 1
+# CPU time: 2.206 s
 ================================= 156 =================================
 # Encoding time: 0.1305 s
 ■ ■ 4 · ■ ■ ■
@@ -1745,18 +2002,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ ■ ■ ■ ■ 3 ■
 ■ · · · 4 ■ ■
 # Number of solutions found: 1
-# CPU time: 0.157 s
+# CPU time: 0.1413 s
 ================================= 157 =================================
-# Encoding time: 0.05344 s
+# Encoding time: 0.05486 s
 · · · ■ ■
 · · ■ 1 ■
 6 ■ ■ ■ ■
 ■ 2 · ■ ·
 ■ ■ ■ ■ 2
 # Number of solutions found: 1
-# CPU time: 0.06201 s
+# CPU time: 0.05937 s
 ================================= 158 =================================
-# Encoding time: 0.4072 s
+# Encoding time: 0.414 s
 · · · · ■ ■ ■ ■ 1 ■
 5 ■ ■ ■ ■ · 3 ■ ■ ■
 ■ 9 ■ · · ■ · ■ · ■
@@ -1768,9 +2025,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ ■ ■ 6 · ■ ■ ■ ■ 3
 · 2 ■ · · · · ■ · ·
 # Number of solutions found: 1
-# CPU time: 0.8925 s
+# CPU time: 0.4533 s
 ================================= 159 =================================
-# Encoding time: 0.1313 s
+# Encoding time: 0.1315 s
 ■ ■ ■ 5 ■ ■ ■
 ■ · · · ■ 4 ■
 ■ · ■ ■ ■ · ■
@@ -1779,9 +2036,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ · ■ · 2 ■ ■
 ■ ■ ■ ■ ■ ■ 1
 # Number of solutions found: 1
-# CPU time: 0.1562 s
+# CPU time: 0.1411 s
 ================================= 160 =================================
-# Encoding time: 0.4965 s
+# Encoding time: 0.5128 s
 ■ ■ ■ ■ ■ ■ ■ ■ 1 ■ ■
 ■ · · ■ · · · ■ ■ · ■
 ■ ■ · ■ · ■ ■ ■ · · ■
@@ -1794,9 +2051,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ · · · ■ ■ ■ · ■ · ■
 ■ ■ ■ ■ ■ 1 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 8.052 s
+# CPU time: 0.6002 s
 ================================= 161 =================================
-# Encoding time: 2.18 s
+# Encoding time: 2.188 s
 2 ■ 1 ■ ■ ■ ■ ■ 1 ■ ■ ■ ■ ■ ■
 · ■ ■ ■ · · ■ · ■ ■ · 2 ■ 1 ■
 ■ ■ 1 ■ ■ 3 ■ · · 6 ■ ■ ■ ■ ■
@@ -1813,9 +2070,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ 1 ■ 5 ■ ■ ■ ■ ■ ■ ■ ■ · ■ ·
 ■ ■ ■ ■ 1 ■ · · · · · · · ■ 3
 # Number of solutions found: 1
-# CPU time: 2.774 s
+# CPU time: 2.297 s
 ================================= 162 =================================
-# Encoding time: 0.1212 s
+# Encoding time: 0.1218 s
 ■ ■ ■ ■ ■ ■ ■
 ■ 1 ■ · ■ · ■
 ■ ■ 4 · ■ 3 ■
@@ -1824,9 +2081,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ 5 · · · · ■
 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1573 s
+# CPU time: 0.1322 s
 ================================= 163 =================================
-# Encoding time: 0.4803 s
+# Encoding time: 0.4764 s
 ■ ■ ■ ■ ■ · 2 ■ ■ ■
 ■ · ■ 1 ■ ■ ■ ■ · ·
 ■ · ■ ■ ■ · ■ · ■ ·
@@ -1838,9 +2095,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 2 ■ · ■ · · 3 ■ · ■
 ■ ■ 2 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.5879 s
+# CPU time: 0.5028 s
 ================================= 164 =================================
-# Encoding time: 0.407 s
+# Encoding time: 0.4135 s
 · · · ■ ■ ■ ■ ■ ■ 1
 5 · ■ 3 · · ■ 1 ■ ■
 ■ ■ ■ ■ ■ ■ ■ ■ · ■
@@ -1852,9 +2109,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ ■ ■ ■ ■ · ■ · · ■
 4 · · · ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.5906 s
+# CPU time: 0.4418 s
 ================================= 165 =================================
-# Encoding time: 0.1514 s
+# Encoding time: 0.1528 s
 · · · ■ ■ 4 ·
 4 ■ ■ ■ 2 ■ ·
 ■ 2 · ■ · ■ ·
@@ -1863,18 +2120,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 · ■ 2 ■ ■ ■ 4
 · 4 ■ ■ · · ·
 # Number of solutions found: 1
-# CPU time: 0.1812 s
+# CPU time: 0.1627 s
 ================================= 166 =================================
-# Encoding time: 0.05882 s
+# Encoding time: 0.0588 s
 · 4 ■ 2 ·
 · ■ ■ ■ ■
 · ■ · · 3
 ■ ■ ■ ■ ■
 · 2 ■ 2 ·
 # Number of solutions found: 1
-# CPU time: 0.06918 s
+# CPU time: 0.06456 s
 ================================= 167 =================================
-# Encoding time: 0.3613 s
+# Encoding time: 0.369 s
 ■ ■ ■ ■ ■ ■ ■ · · ·
 ■ 5 · · · · ■ ■ ■ 4
 4 ■ ■ ■ ■ ■ ■ · 2 ■
@@ -1886,18 +2143,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ ■ ■ · ■ ■ ■ ■ · ·
 ■ 5 · · ■ · · · · 7
 # Number of solutions found: 1
-# CPU time: 9.143 s
+# CPU time: 0.4183 s
 ================================= 168 =================================
-# Encoding time: 0.05806 s
+# Encoding time: 0.05839 s
 · · 4 ■ ?
 ■ ■ · ■ ·
 1 ■ ■ ■ ·
 ■ ■ · ■ ■
 · · 4 ■ 1
 # Number of solutions found: 1
-# CPU time: 0.06714 s
+# CPU time: 0.06444 s
 ================================= 169 =================================
-# Encoding time: 0.1089 s
+# Encoding time: 0.1081 s
 2 · ■ 6 · ·
 ■ ■ ■ · · ·
 1 ■ 1 ■ ■ ■
@@ -1905,9 +2162,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ · ■ ■ ■ ■
 · · 4 ■ · 2
 # Number of solutions found: 1
-# CPU time: 0.1242 s
+# CPU time: 0.1164 s
 ================================= 170 =================================
-# Encoding time: 0.07984 s
+# Encoding time: 0.07962 s
 ■ ■ · · · ■
 ■ · 5 ■ ■ ■
 ■ ■ ■ 2 · ■
@@ -1915,9 +2172,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ · ■ 2 · ■
 ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.09429 s
+# CPU time: 0.08686 s
 ================================= 171 =================================
-# Encoding time: 0.1306 s
+# Encoding time: 0.1319 s
 · · · · 5 ■ ■
 ■ ■ ■ ■ ■ 1 ■
 ■ · · ■ · ■ ■
@@ -1926,18 +2183,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ 2 ■ · ■ ■ ■
 ■ ■ 6 · · · ·
 # Number of solutions found: 1
-# CPU time: 0.1909 s
+# CPU time: 0.1451 s
 ================================= 172 =================================
-# Encoding time: 0.05422 s
+# Encoding time: 0.05425 s
 · · · · ■
 · ■ ■ ■ ■
 6 ■ 1 ■ ·
 ■ ■ ■ ■ ·
 ■ · 2 ■ 3
 # Number of solutions found: 1
-# CPU time: 0.06375 s
+# CPU time: 0.0589 s
 ================================= 173 =================================
-# Encoding time: 0.1411 s
+# Encoding time: 0.1423 s
 ■ ■ ■ · 2 ■ ■
 ■ · ■ ■ ■ 1 ■
 3 · ■ · ■ ■ ■
@@ -1946,9 +2203,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ 2 ■ · ■ 1 ■
 ■ ■ 7 · ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1695 s
+# CPU time: 0.1539 s
 ================================= 174 =================================
-# Encoding time: 0.1206 s
+# Encoding time: 0.1204 s
 · ■ · · 7 ■ ■
 2 ■ · ■ ■ 1 ■
 ■ ■ · ■ 2 ■ ■
@@ -1957,11 +2214,22 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '155']' timed out after
 ■ · 8 · · · ·
 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1704 s
+# CPU time: 0.1349 s
 ================================= 175 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after 60 seconds
+# Encoding time: 0.2326 s
+B · · ■ 1 ■ · · ·
+■ ■ · ■ ■ ■ · · ·
+B ■ · · · ■ · · ·
+· ■ ■ ■ · ■ ■ ■ A
+· · · ■ · · · ■ ■
+■ ■ · ■ ■ ■ ■ ■ B
+1 ■ · · · · · ■ ·
+■ ■ ■ ■ ■ ■ ■ ■ ·
+■ · · · · · · · ·
+# Number of solutions found: 1
+# CPU time: 5.773 s
 ================================= 176 =================================
-# Encoding time: 0.1198 s
+# Encoding time: 0.1207 s
 ■ ■ ■ ■ ■ ■ ■
 ■ 5 · · · · ■
 ■ ■ ■ ■ ■ ■ 1
@@ -1970,9 +2238,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 ■ · · · · · 6
 ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1567 s
+# CPU time: 0.1299 s
 ================================= 177 =================================
-# Encoding time: 0.1625 s
+# Encoding time: 0.1617 s
 ■ 1 ■ 1 ■ ■ ■
 ■ ■ ■ ■ ■ · ■
 ■ 1 ■ 1 ■ 2 ■
@@ -1981,9 +2249,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 ■ ■ ■ ■ · · ■
 ■ 2 · ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1809 s
+# CPU time: 0.1722 s
 ================================= 178 =================================
-# Encoding time: 0.9535 s
+# Encoding time: 0.9619 s
 ■ ■ ■ ■ 1 ■ ■ ■ ■ ■ · 2
 ■ · 3 ■ ■ ■ 3 · · ■ ■ ■
 ■ · ■ 2 · ■ ■ ■ ■ ■ 5 ·
@@ -1997,9 +2265,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 ■ ■ ■ · ■ 1 ■ ■ ■ 5 ■ ■
 ■ 1 ■ ■ ■ ■ · · · · ■ 1
 # Number of solutions found: 1
-# CPU time: 1.215 s
+# CPU time: 1.021 s
 ================================= 179 =================================
-# Encoding time: 0.13 s
+# Encoding time: 0.1317 s
 2 · ■ 2 · ■ ■
 ■ ■ ■ ■ ■ ■ ·
 ■ 7 · · · · ·
@@ -2008,16 +2276,16 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 ■ ■ ■ ■ ■ ■ ·
 2 · ■ 2 · ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1975 s
+# CPU time: 0.1507 s
 ================================= 180 =================================
-# Encoding time: 0.05412 s
+# Encoding time: 0.05418 s
 ■ ■ 6 · ·
 ■ 1 ■ · ·
 ■ ■ ■ ■ ·
 2 ■ · 2 ■
 · ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.0626 s
+# CPU time: 0.05906 s
 ================================= 181 =================================
 # Encoding time: 0.05889 s
 ■ ■ ■ ■ 1
@@ -2026,18 +2294,18 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 ■ 4 ■ ■ ■
 1 ■ ■ · 2
 # Number of solutions found: 1
-# CPU time: 0.0667 s
+# CPU time: 0.06352 s
 ================================= 182 =================================
-# Encoding time: 0.04905 s
+# Encoding time: 0.05026 s
 ■ · · · ·
 ■ ■ ■ ■ ·
 ■ · · ■ ·
 ■ ■ 3 ■ 7
 1 ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.06141 s
+# CPU time: 0.0568 s
 ================================= 183 =================================
-# Encoding time: 0.4329 s
+# Encoding time: 0.441 s
 ■ ■ ■ 8 ■ · 2 ■ ■ ■
 ■ · ■ · ■ ■ ■ 2 · ■
 ■ 2 ■ · · · ■ ■ ■ ■
@@ -2049,9 +2317,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 · ■ 1 ■ ■ ■ · ■ · ■
 · ■ ■ 2 · ■ 5 ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.6229 s
+# CPU time: 0.471 s
 ================================= 184 =================================
-# Encoding time: 0.7919 s
+# Encoding time: 0.7965 s
 ■ ■ ■ · · · · · · · · ·
 ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ A
 ■ · ■ · · ■ 1 ■ 2 ■ 2 ■
@@ -2065,9 +2333,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 1 ■ · · ■ · ■ · · · · ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 1.922 s
+# CPU time: 0.8421 s
 ================================= 185 =================================
-# Encoding time: 1.978 s
+# Encoding time: 2.04 s
 ■ ■ 5 · · · · ■ · · 4 ■ ■ ■ ■
 ■ 1 ■ ■ ■ ■ ■ ■ ■ ■ · ■ · 3 ■
 ■ ■ ■ · 2 ■ · ■ 5 · ■ ■ · ■ 5
@@ -2084,9 +2352,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 ■ 5 · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 1 ■
 ■ ■ ■ ■ 7 · · · · · · ■ 1 ■ ■
 # Number of solutions found: 1
-# CPU time: 2.899 s
+# CPU time: 2.146 s
 ================================= 186 =================================
-# Encoding time: 0.4578 s
+# Encoding time: 0.4603 s
 1 ■ · 4 · ■ 4 · ■ 2
 ■ ■ ■ ■ · ■ · · ■ ·
 ■ · · ■ ■ ■ ■ ■ ■ ■
@@ -2098,9 +2366,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 · ■ ■ ■ ■ ■ ■ · ■ ·
 2 ■ · 3 · ■ 4 · ■ 2
 # Number of solutions found: 1
-# CPU time: 0.7626 s
+# CPU time: 0.5181 s
 ================================= 187 =================================
-# Encoding time: 0.4771 s
+# Encoding time: 0.4762 s
 ■ ■ ■ 2 ■ 2 · ■ 3 ·
 4 · ■ · ■ ■ ■ ■ · ■
 · ■ ■ ■ ■ · 4 ■ ■ ■
@@ -2112,9 +2380,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 ■ 1 ■ ■ ■ ■ ■ · ■ 2
 ■ ■ ■ · 3 · ■ ■ ■ ·
 # Number of solutions found: 1
-# CPU time: 0.6438 s
+# CPU time: 0.5088 s
 ================================= 188 =================================
-# Encoding time: 0.4496 s
+# Encoding time: 0.4618 s
 6 · · ■ · ■ · ■ 6 ■
 · ■ ■ ■ 2 ■ 2 ■ · ■
 · ■ · 2 ■ ■ ■ ■ · ■
@@ -2126,9 +2394,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '175']' timed out after
 · · · · ■ · 3 ■ · 2
 C · · · ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.6131 s
+# CPU time: 0.4942 s
 ================================= 189 =================================
-# Encoding time: 0.151 s
+# Encoding time: 0.1521 s
 7 · · ■ 1 ■ 2
 ■ ■ · ■ ■ ■ ·
 6 ■ · · · ■ ■
@@ -2137,18 +2405,18 @@ C · · · ■ ■ ■ ■ ■ ■
 ■ ■ ■ ■ ■ ■ ■
 1 ■ 1 ■ · · 3
 # Number of solutions found: 1
-# CPU time: 0.1972 s
+# CPU time: 0.1662 s
 ================================= 190 =================================
-# Encoding time: 0.05909 s
+# Encoding time: 0.06267 s
 ■ ■ ■ ■ ■
 1 ■ 1 ■ 1
 ■ ■ ■ ■ ■
 ■ 1 ■ 1 ■
 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.06486 s
+# CPU time: 0.06753 s
 ================================= 191 =================================
-# Encoding time: 0.1252 s
+# Encoding time: 0.1203 s
 ■ 4 · · · ■ ■
 ■ ■ ■ ■ ■ ■ ·
 1 ■ · · · ■ ·
@@ -2157,9 +2425,9 @@ C · · · ■ ■ ■ ■ ■ ■
 ■ 7 ■ ■ · ■ ·
 ■ ■ 5 · · ■ 6
 # Number of solutions found: 1
-# CPU time: 0.4403 s
+# CPU time: 0.131 s
 ================================= 192 =================================
-# Encoding time: 0.1447 s
+# Encoding time: 0.145 s
 ■ ■ ■ ■ ■ ■ ■
 ■ 1 ■ · ■ · ■
 2 ■ 3 · ■ 2 ■
@@ -2168,9 +2436,9 @@ C · · · ■ ■ ■ ■ ■ ■
 ■ 3 ■ ■ · · ■
 ■ · · ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1694 s
+# CPU time: 0.1551 s
 ================================= 193 =================================
-# Encoding time: 6.863 s
+# Encoding time: 6.883 s
 8 ■ 2 ■ 3 · · ■ 2 · ■ 1 ■ 3 · ■ 1 ■ 2 ■
 · ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ · ■
 · ■ ■ 1 ■ 3 ■ 2 · ■ 3 ■ 3 · ■ 3 · ■ ■ ■
@@ -2192,9 +2460,9 @@ C · · · ■ ■ ■ ■ ■ ■
 2 ■ · ■ 1 ■ ■ ■ · ■ ■ ■ ■ ■ ■ · · · ■ ·
 · ■ ■ ■ ■ ■ 1 ■ ■ ■ 2 · ■ 1 ■ ■ ■ ■ ■ ·
 # Number of solutions found: 1
-# CPU time: 12.82 s
+# CPU time: 7.257 s
 ================================= 194 =================================
-# Encoding time: 0.3447 s
+# Encoding time: 0.3527 s
 2 · ■ ■ ■ ■ ■ ■ 2
 ■ ■ ■ · ■ · 2 ■ ·
 · ■ 3 · ■ ■ ■ ■ ■
@@ -2205,9 +2473,9 @@ C · · · ■ ■ ■ ■ ■ ■
 · ■ 2 ■ · · ■ · ■
 3 ■ ■ ■ ■ ■ ■ 2 ■
 # Number of solutions found: 1
-# CPU time: 0.4226 s
+# CPU time: 0.3752 s
 ================================= 195 =================================
-# Encoding time: 1.909 s
+# Encoding time: 2.037 s
 ■ ■ ■ ■ 1 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ · · 4 ■ ■ · · · · 6 ■ · · ■
 ■ · ■ ■ ■ 1 ■ ■ · ■ ■ · · ■ ■
@@ -2224,9 +2492,9 @@ C · · · ■ ■ ■ ■ ■ ■
 ■ · · ■ 5 · · · · ■ · 2 ■ · ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 2.997 s
+# CPU time: 2.148 s
 ================================= 196 =================================
-# Encoding time: 0.4084 s
+# Encoding time: 0.4129 s
 ■ ■ ■ · · · · · ■ ·
 · ■ 1 ■ ■ ■ ■ 6 ■ ·
 2 ■ ■ 1 ■ · 6 ■ ■ 3
@@ -2238,9 +2506,9 @@ C · · · ■ ■ ■ ■ ■ ■
 · ■ ■ · · ■ · · ■ ·
 · · ■ ■ ■ ■ ■ ■ ■ ·
 # Number of solutions found: 1
-# CPU time: 2.519 s
+# CPU time: 0.4526 s
 ================================= 197 =================================
-# Encoding time: 0.3621 s
+# Encoding time: 0.3672 s
 · · · · · ■ · · · ■
 · ■ ■ ■ 8 ■ ■ ■ · ■
 · ■ · ■ ■ ■ 1 ■ · ■
@@ -2252,9 +2520,9 @@ C · · · ■ ■ ■ ■ ■ ■
 ■ · · · · ■ ■ ■ · ·
 ■ ■ ■ ■ ■ ■ 1 ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 2.031 s
+# CPU time: 0.4191 s
 ================================= 198 =================================
-# Encoding time: 0.2759 s
+# Encoding time: 0.28 s
 · · · · · · ■ ■ ■ ■
 7 ■ ■ ■ ■ ■ ■ · · ■
 ■ 7 ■ 7 · · · · ■ ■
@@ -2266,11 +2534,28 @@ C · · · ■ ■ ■ ■ ■ ■
 ■ · · ■ 7 · ■ 7 · ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 9.623 s
+# CPU time: 0.3333 s
 ================================= 199 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '199']' timed out after 60 seconds
+# Encoding time: 1.411 s
+· ■ ■ ■ ■ ■ 7 ■ ■ ■ ■ 8 ■ 3 ·
+· ■ 4 · · ■ · ■ · · · · ■ · ■
+· 4 ■ ■ · ■ · ■ · ■ ■ ■ ■ ■ ■
+■ ■ 5 ■ ■ ■ · ■ · ■ · · · · 5
+■ · · · · ■ · ■ · ■ ■ ■ ■ ■ ■
+■ ■ ■ ■ ■ ■ · ■ ■ ■ · ■ · · 4
+7 · · · · ■ · ■ 1 ■ · ■ ■ ■ ·
+■ ■ ■ ■ · ■ ■ ■ ■ ■ · · · ■ ■
+■ · · ■ · ■ 1 ■ · ■ ■ ■ · · ·
+■ · ■ ■ ■ ■ ■ ■ · · · ■ ■ ■ 9
+■ 4 ■ · ■ · · ■ ■ ■ · · · ■ ■
+■ ■ ■ · ■ · ■ · ■ · ■ ■ · · ·
+■ · · · ■ 4 ■ 2 ■ · 3 ■ ■ ■ ·
+■ 6 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 8 ■ ·
+■ ■ ■ 2 · ■ · · · · · · · ■ D
+# Number of solutions found: 1
+# CPU time: 2.472 s
 ================================= 200 =================================
-# Encoding time: 0.3863 s
+# Encoding time: 0.395 s
 · · ■ · · · · · · ·
 · 5 ■ · ■ ■ ■ ■ A ·
 · ■ ■ ■ ■ · · · ■ ■
@@ -2282,9 +2567,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '199']' timed out after
 ■ 3 ■ · ■ · ■ · 4 ■
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.7076 s
+# CPU time: 0.4347 s
 ================================= 201 =================================
-# Encoding time: 0.3218 s
+# Encoding time: 0.3317 s
 · 2 ■ ■ ■ ■ ■ ■ 2 ·
 ■ ■ ■ · ■ · · · ■ ■
 · · ■ · ■ ■ ■ · · ■
@@ -2296,17 +2581,73 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '199']' timed out after
 · · · · · · · ■ · ■
 1A · · · · · · ■ 2 ■
 # Number of solutions found: 1
-# CPU time: 3.943 s
+# CPU time: 12.55 s
 ================================= 202 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '202']' timed out after 60 seconds
+# Encoding time: 0.4072 s
+■ · · · · · ■ ■ ■ ■ ■
+■ ■ ■ ■ ■ · ■ · · · ■
+■ · · · ■ 7 ■ · · · ■
+■ ■ ■ · ■ ■ 8 · ■ ■ ■
+■ · ■ · · 7 ■ ■ ■ · ■
+■ · ■ ■ ■ ■ 7 · · · ■
+■ · · · · 7 ■ ■ ■ · ■
+■ ■ ■ ■ ■ ■ 6 · ■ · ■
+■ · · · · 7 ■ · ■ ■ ■
+■ · ■ ■ ■ · ■ · · · ■
+■ ■ ■ 1 ■ ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 0.6257 s
 ================================= 203 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '203']' timed out after 60 seconds
+# Encoding time: 0.6501 s
+4 · ■ 4 · ■ 5 ■ 6 · ■ 7
+· · ■ · · ■ · ■ ■ · ■ ·
+■ ■ ■ ■ ■ ■ · · ■ · ■ ·
+4 · · ■ · ■ ■ · ■ · ■ ·
+· ■ ■ 5 · ■ 6 ■ ■ · ■ ·
+■ 5 ■ · · ■ · ■ 7 ■ ■ ·
+■ · ■ ■ ■ ■ · ■ · · ■ ·
+■ · · ■ 7 ■ · ■ · ■ ■ ■
+■ ■ · ■ · ■ · ■ · ■ 8 ·
+7 ■ ■ ■ · ■ · ■ · ■ · ·
+· · · ■ · ■ ■ ■ · ■ · ·
+· · · ■ · · · ■ ■ ■ · ·
+# Number of solutions found: 1
+# CPU time: 0.8322 s
 ================================= 204 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '204']' timed out after 60 seconds
+# Encoding time: 1.368 s
+■ ■ ■ ■ ■ · · · 5 · ■ ■ ■ ■ ■
+■ · · · · ■ ■ ■ ■ ■ C · · · ■
+■ ■ ■ ■ · · · · · ■ ■ ■ ■ · ■
+· · ■ 2 ■ ■ ■ ■ · · · D ■ · ■
+· 4 ■ · ■ 1 ■ · ■ ■ ■ ■ ■ · ■
+■ ■ ■ ■ ■ ■ ■ · · ■ 1 ■ · · ■
+3 · ■ · · · 5 ■ 5 · ■ ■ · ■ ■
+■ · ■ · ■ ■ ■ ■ ■ ■ · ■ · ■ ·
+■ ■ ■ ■ ■ · 4 ■ 5 · · ■ · ■ 3
+· · · ■ 1 ■ · ■ ■ ■ · ■ ■ ■ ·
+· · · ■ ■ ■ · ■ · 2 ■ · ■ 4 ■
+· · · D ■ · ■ ■ ■ ■ ■ C ■ · ■
+· ■ ■ ■ ■ · · · · · · · ■ · ■
+· ■ · · 3 ■ ■ ■ ■ ■ · · ■ · ■
+· ■ ■ ■ ■ ■ 3 · · ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 1.77 s
 ================================= 205 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '205']' timed out after 60 seconds
+# Encoding time: 0.308 s
+· · ■ 4 · · · ■ ■ ■
+· · ■ ■ ■ ■ ■ ■ · ■
+· 6 ■ 6 · · · ■ · ■
+■ ■ ■ ■ ■ · · ■ · ■
+· · · 5 · ■ ■ ■ · ■
+■ ■ ■ ■ ■ ■ · ■ · ■
+· 15 ■ 4 ■ 4 · ■ · ■
+· ■ · · · ■ · ■ · ■
+· ■ ■ ■ ■ ■ ■ ■ · ■
+· · · · · · · · · ■
+# Number of solutions found: 1
+# CPU time: 1.993 s
 ================================= 206 =================================
-# Encoding time: 0.5482 s
+# Encoding time: 0.5603 s
 ■ ■ ■ · ■ ■ ■ ■ 1 ■ ·
 ■ 1 ■ 2 ■ · · ■ ■ ■ ·
 ■ ■ ■ ■ ■ ■ · · · ■ 3
@@ -2319,9 +2660,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '205']' timed out after
 ■ ■ · ■ · · · 5 ■ 6 ·
 · · 5 ■ ■ ■ ■ ■ · · ·
 # Number of solutions found: 1
-# CPU time: 1.531 s
+# CPU time: 0.6097 s
 ================================= 207 =================================
-# Encoding time: 0.55 s
+# Encoding time: 0.5588 s
 ■ ■ · · · 4 ■ ■ ■ ■ ■
 ■ · ■ ■ ■ ■ ■ 1 ■ · ■
 ■ 2 ■ 1 ■ 2 · ■ · 3 ■
@@ -2334,9 +2675,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '205']' timed out after
 ■ · ■ ■ ■ ■ 3 ■ 3 · ■
 ■ ■ · 2 ■ · · ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 3.575 s
+# CPU time: 0.7541 s
 ================================= 208 =================================
-# Encoding time: 0.5651 s
+# Encoding time: 0.5618 s
 ■ ■ ■ 3 · · ■ 2 · ■
 ■ 1 ■ ■ ■ ■ ■ ■ ■ ■
 · ■ · · ■ · · ■ · ·
@@ -2353,11 +2694,23 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '205']' timed out after
 · · · · · · · · · ·
 · · · · · · · · · ·
 # Number of solutions found: 1
-# CPU time: 39.48 s
+# CPU time: 2.599 s
 ================================= 209 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '209']' timed out after 60 seconds
+# Encoding time: 0.3567 s
+■ ■ 6 ■ ■ 5 ■ ■ ■ ■ ■
+■ · · · ■ · ■ · · · ■
+■ ■ ■ · ■ · ■ ■ ■ · ■
+9 · ■ · ■ · ■ · ■ · ■
+■ · ■ ■ ■ · ■ · ■ · 7
+■ · · · ■ ■ ■ · ■ ■ ■
+■ ■ ■ · · · ■ · · · 7
+■ · ■ ■ ■ ■ ■ ■ ■ ■ ■
+■ · · ■ · · · · · · ■
+■ ■ 4 ■ 7 ■ ■ ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 0.4117 s
 ================================= 210 =================================
-# Encoding time: 0.1334 s
+# Encoding time: 0.136 s
 · · · · ■ · · · ·
 6 · ■ ■ ■ 6 · ■ ■
 ■ ■ ■ 6 · ■ ■ ■ ·
@@ -2365,9 +2718,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '209']' timed out after
 · · ■ ■ ■ ■ ■ ■ ·
 · · · · · ■ · · 6
 # Number of solutions found: 1
-# CPU time: 1.784 s
+# CPU time: 0.1978 s
 ================================= 211 =================================
-# Encoding time: 0.7594 s
+# Encoding time: 0.7699 s
 · ■ 3 · · ■ ■ ■ ■ 5 · ·
 · ■ ■ ■ ■ ■ · · ■ · ■ ■
 5 · · ■ 1 ■ ■ 3 ■ · ■ 3
@@ -2381,9 +2734,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '209']' timed out after
 · ■ ■ ■ · · ■ · ■ ■ ■ ·
 · ■ 1 ■ ■ ■ ■ ■ ■ 1 ■ ■
 # Number of solutions found: 1
-# CPU time: 1.076 s
+# CPU time: 0.8195 s
 ================================= 212 =================================
-# Encoding time: 0.3199 s
+# Encoding time: 0.3224 s
 1 ■ ■ ■ ■ ■ ■ ■ 1 ■
 ■ ■ · · · · · ■ ■ ■
 · · · · · · · ■ 1 ■
@@ -2395,9 +2748,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '209']' timed out after
 · · · ■ ■ ■ · · · ·
 · · · · · · · · · ·
 # Number of solutions found: 1
-# CPU time: 0.8267 s
+# CPU time: 0.3883 s
 ================================= 213 =================================
-# Encoding time: 0.1614 s
+# Encoding time: 0.1705 s
 ? ■ ■ ■ ■ ■ ■
 ■ ? ■ ? ■ · ■
 ■ ■ ? ■ ? · ■
@@ -2406,9 +2759,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '209']' timed out after
 ■ ■ ? ■ · · ■
 ? ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.1865 s
+# CPU time: 0.1833 s
 ================================= 214 =================================
-# Encoding time: 0.4358 s
+# Encoding time: 0.4375 s
 2 ■ · · · ■ · ■ · ·
 · ■ ■ 7 · ■ 2 ■ · ·
 ■ 5 ■ · · ■ ■ ■ ■ 5
@@ -2420,9 +2773,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '209']' timed out after
 ■ ■ ■ 5 ■ · ■ ■ · ·
 1 ■ · · · ■ ■ · · 9
 # Number of solutions found: 1
-# CPU time: 1.709 s
+# CPU time: 0.5193 s
 ================================= 215 =================================
-# Encoding time: 2.612 s
+# Encoding time: 2.668 s
 9 · · · · · · · ■ · 3 ■ ■ ■ ■ ■ ■
 ■ ■ ■ ■ ■ ■ ■ · ■ · ■ ■ · · ■ 6 ·
 ■ · · · ■ 1 ■ ■ ■ ■ ■ · 5 ■ ■ ■ ·
@@ -2441,9 +2794,9 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '209']' timed out after
 · ■ · · · ■ · ■ 2 ■ 1 ■ · · C ■ ·
 5 ■ ■ 5 ■ ■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 9.191 s
+# CPU time: 2.842 s
 ================================= 216 =================================
-# Encoding time: 0.4948 s
+# Encoding time: 0.5047 s
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 ■ · · · ■ · · ■ · · ■
 ■ ■ ■ · ■ · ■ · · ■ ■
@@ -2456,25 +2809,15 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '209']' timed out after
 · ■ · ■ ■ · · ■ 3 ■ ·
 4 ■ 4 ■ · · · 7 ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 5.677 s
+# CPU time: 0.5493 s
 ================================= 217 =================================
-# Encoding time: 0.2978 s
-■ ■ 3 ■ 5 ■ ■ B ■ ■
-■ · · ■ · ■ · · · ■
-■ ■ ■ ■ · ■ · ■ ■ ■
-3 · · ■ · ■ · ■ · A
-■ ■ ■ ■ · ■ · ■ · ■
-■ · · ■ ■ ■ · ■ · ■
-■ 3 ■ ■ · · · ■ · ■
-■ ■ 4 ■ ■ ■ ■ ■ · ■
-■ · · · ■ · · · · ■
-■ ■ ■ ■ ■ ■ ■ ■ ■ ■
-# Number of solutions found: 1
-# CPU time: 52.48 s
+# Encoding time: 0.3192 s
+# Number of solutions found: 0
+# CPU time: 0.3366 s
 ================================= 218 =================================
 Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '218']' timed out after 60 seconds
 ================================= 219 =================================
-# Encoding time: 0.3194 s
+# Encoding time: 0.3263 s
 ■ ■ ■ ■ ■ ■ ■ · · ·
 ■ · · · · · 6 ■ 6 ·
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ·
@@ -2486,7 +2829,7 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '218']' timed out after
 · · 6 ■ ■ ■ ■ ■ ■ ■
 · · · ■ · · · · · 6
 # Number of solutions found: 1
-# CPU time: 5.307 s
+# CPU time: 0.3634 s
 ================================= 220 =================================
 # Encoding time: 0.1202 s
 ■ ■ ■ ■ ■ 4 ·
@@ -2497,15 +2840,69 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '218']' timed out after
 ■ · · · 4 ■ ·
 ■ ■ ■ ■ ■ 3 ·
 # Number of solutions found: 1
-# CPU time: 0.24 s
+# CPU time: 0.1297 s
 ================================= 221 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '221']' timed out after 60 seconds
+# Encoding time: 3.925 s
+· · · · · · ■ · · · · · · 7 ■ ■ · 4 · · ■ 1 ■ 4
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 1 ■ ■ ■ ■ ■ ■ ■ ■ ·
+■ 1 ■ · ■ · · · · ■ 1 ■ · ■ ■ ■ · ■ · · ■ · ■ ·
+■ ■ ■ · ■ ■ ■ 5 ■ ■ ■ · · ■ · · · ■ · ■ 3 · ■ ·
+6 · · · ■ · · ■ ■ · ■ ■ 4 ■ ■ ■ · ■ · ■ ■ ■ ■ ■
+■ ■ ■ ■ ■ ■ · · ■ · ■ · ■ 2 · ■ · ■ · ■ · ■ · ■
+■ · · ■ 2 · ■ 5 ■ 5 ■ 2 ■ ■ ■ ■ · ■ · ■ · ■ · ■
+■ ■ · · ■ ■ ■ ■ ■ · · ■ 2 · ■ · 9 ■ 7 ■ · ■ · ■
+1 ■ ■ · ■ · ■ 2 · ■ ■ ■ ■ ■ ■ ■ ■ 1 ■ ■ · ■ · ■
+■ 1 ■ 6 ■ · · ■ ■ ■ 1 ■ 1 ■ · · 3 ■ ■ 6 · ■ 5 ■
+■ ■ ■ ■ · ■ · 5 ■ · ■ ■ ■ 2 ■ ■ ■ ■ · ■ ■ ■ ■ ·
+■ 5 · · · ■ ■ ■ · 3 ■ · ■ · ■ · 2 ■ · ■ 5 · · ·
+4 ■ ■ ■ ■ ■ · ■ ■ ■ ■ 2 ■ ■ · ■ ■ ■ 3 ■ ■ ■ ■ ■
+· · · ■ 1 ■ 2 ■ · 3 · ■ ■ · · 5 · ■ ■ 5 · · · ·
+# Number of solutions found: 1
+# CPU time: 4.175 s
 ================================= 222 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '222']' timed out after 60 seconds
+# Encoding time: 3.782 s
+■ ■ · · · ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+■ 4 ■ 4 ■ 5 · · · · ■ · ■ B · · · · · ■
+■ · ■ ■ ■ ■ ■ ■ ■ ■ ■ · · ■ · · · · · ■
+■ · ■ 5 · ■ B · · · · · ■ ■ ■ ■ ■ ■ ■ ■
+■ · ■ ■ · · ■ ■ ■ · · ■ B · · · · · · ■
+■ ■ · 5 ■ · ■ · · ■ ■ ■ ■ ■ ■ ■ ■ ■ · ■
+■ · · ■ ■ ■ ■ 3 ■ 4 ■ 1 ■ · · · · ■ · ■
+■ · ■ 4 · · ■ ■ ■ · · ■ 6 · ■ ■ ■ ■ · ■
+■ ■ ■ ■ · ■ ■ 3 · ■ · ■ ■ ■ ■ · · ■ · ■
+· 5 ■ 5 ■ 7 ■ ■ · ■ ■ ■ 1 ■ · · ■ ■ ■ ■
+· ■ ■ · ■ · ■ 1 ■ 2 ■ 7 ■ ■ 5 ■ 2 ■ 8 ■
+· ■ · · ■ · ■ ■ ■ · ■ · ■ 1 ■ ■ · ■ · ■
+· ■ · ■ ■ · ■ 8 · ■ ■ · · ■ ■ · ■ ■ · ■
+■ ■ ■ ■ · · ■ ■ · · ■ · ■ 1 ■ · · · · ■
+■ · · ■ · ■ ■ 5 ■ · ■ · ■ ■ ■ ■ ■ ■ ■ ■
+■ · · ■ ■ 14 ■ · ■ · ■ · ■ 1 ■ · · · · ■
+■ · · · · · ■ · ■ · ■ ■ · ■ ■ · ■ ■ · ■
+■ · · · · · ■ · ■ · ■ · · 4 ■ ■ · ■ · ■
+■ · · · · · ■ · ■ ■ ■ ■ ■ ■ 8 ■ 2 ■ 8 ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ · · · · · · · ■ ■ ■ ■
+# Number of solutions found: 1
+# CPU time: 14.58 s
 ================================= 223 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '223']' timed out after 60 seconds
+# Encoding time: 3.193 s
+· · · · · · · ■ · · 4 ■ · · · ■ · 2 ■ ■ · · · ·
+· · · · · · · ■ ■ · ■ ■ · ■ ■ ■ ■ ■ 1 ■ · · · ·
+· · · · · · · · ■ ■ ■ · · ■ · · · ■ ■ ■ · · · ·
+· · · · · · · · · ■ 8 · ■ ■ ■ 4 ■ · · ■ 10 · · ·
+· · · · · · · · · ■ ■ ■ ■ · 2 ■ ■ · ■ 4 ■ ■ ■ ■
+· · · · · · · · ■ · ■ 2 ■ ■ ■ · ■ · ■ · · ■ 1 ■
+· · · · · · · · ■ 2 ■ · ■ · ■ 2 ■ · ■ ■ · ■ ■ 4
+· · · · · · · 40 ■ ■ ■ ■ ■ 2 ■ ■ ■ · ■ 2 ■ ■ · ·
+■ ■ ■ ■ ■ ■ ■ ■ 2 ■ · ■ 2 ■ · ■ 8 · ■ · ■ 1 ■ ·
+· ■ · ■ · ■ · ■ · ■ 2 ■ · ■ · ■ ■ ■ ■ ■ ■ ■ ■ ■
+2 ■ 2 ■ 2 ■ 2 ■ ■ ■ ■ ■ ■ ■ 4 ■ 20 · · · · · · ·
+■ ■ ■ ■ ■ 4 ■ 1 ■ · · ■ · ■ · ■ · · · · · · · ·
+· · · 8 ■ · ■ ■ 4 · ■ ■ 2 ■ ■ ■ · · · · · · · ·
+· · · · ■ · · ■ ■ ■ ■ 1 ■ ■ 1 ■ · · · · · · · ·
+# Number of solutions found: 1
+# CPU time: 4.033 s
 ================================= 224 =================================
-# Encoding time: 0.166 s
+# Encoding time: 0.1707 s
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
@@ -2536,22 +2933,12 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '223']' timed out after
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · 63 ·
+· · · · ■ · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ■
-· · · · · · · · 63 ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-■ · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
@@ -2562,30 +2949,12 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '223']' timed out after
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
-■ · · · · · · · · ·
 · · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · 63 ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · ■ ·
-· · · · · · · · · ·
-· · · · · · · · · ·
+· · · ■ · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · 63 ·
 · · · · · · · · · ·
 · · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · ■ · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · · ·
-· · · · · · · · 63 ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
@@ -2593,6 +2962,24 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '223']' timed out after
 · · · · · ■ · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
+· · · · · · · · 63 ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · ■ · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · 63 ·
+· · · · · · · · · ·
+· · · · · · ■ · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · 63 ·
@@ -2600,33 +2987,71 @@ Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '223']' timed out after
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
-· · · · · · · ■ · ·
+· · · · · · · · · ·
+· · · ■ · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · 63 ·
+· · · · · · · · · ·
+· · · · · · · · ■ ·
+· · · · · · · · · ·
+· · · · · · · · · ·
+· · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · · ·
 · · · · · · · · 63 ·
 # Number of solutions found: 10
-# CPU time: 0.2806 s
+# CPU time: 0.3365 s
 ================================= 225 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '225']' timed out after 60 seconds
+# Encoding time: 2.277 s
+■ ■ ■ ■ 1 ■ ■ ■ ■ · · · · · · · · · ■ E · · · ·
+■ 3E · ■ ■ ■ · 3 ■ · ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ ■ ■ ·
+■ ■ · · · ■ · ■ · · ■ 6 · · · · ■ · · · · · ■ ·
+· ■ ■ ■ · ■ ■ ■ · ■ 1 ■ · ■ ■ ■ ■ ■ ■ ■ ■ · ■ ·
+· ■ 1 ■ · ■ · 2 ■ ■ ■ ■ ■ 7 · · ■ 9 · · ■ · ■ ·
+· ■ ■ · · ■ ■ ■ 2 ■ · ■ 4 ■ ■ · · ■ ■ · ■ · ■ ·
+5 · ■ · ■ 2 · ■ · ■ 2 ■ · · ■ ■ · · ■ · ■ · ■ ·
+■ ■ ■ · ■ ■ ■ ■ ■ ■ ■ ■ · ■ 4 ■ ■ ■ ■ · ■ · ■ ·
+2 · ■ · · · · · · ■ · 2 ■ ■ · ■ 1 ■ · · ■ · ■ ·
+■ ■ ■ ■ ■ ■ ■ ■ · ■ ■ ■ 1 ■ · · ■ ■ ■ · ■ · ■ ·
+· ■ · · 5 ■ · ■ · · · ■ ■ ■ ■ ■ ■ · ■ ■ ■ · ■ ■
+· ■ · · ■ · · 4 ■ · · · · · · · · · · · · · ■ 1D
+· ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ·
+· · · · · · · · · · · · · · · · · · · · · · · ·
+# Number of solutions found: 1
+# CPU time: 12.77 s
 ================================= 226 =================================
-# Encoding time: 0.05396 s
+# Encoding time: 0.0538 s
 5 · · · ·
 ■ ■ ■ ■ ■
 ■ · ■ 1 ■
 ■ · 3 ■ 1
 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.06295 s
+# CPU time: 0.05986 s
 ================================= 227 =================================
-Caught Command '['python3', 'nurikabe.py', '-s10', '-p', '227']' timed out after 60 seconds
+# Encoding time: 0.3488 s
+· 6 ■ ■ 6 · · · · ·
+· ■ 7 ■ ■ ■ ■ ■ ■ ■
+· ■ · · ■ 7 · ■ 7 ·
+· ■ ■ · · ■ · ■ ■ ·
+· ■ 7 ■ · ■ · · ■ ·
+■ ■ · ■ · ■ · · ■ ·
+6 ■ · ■ ■ ■ ■ ■ ■ ·
+· ■ · · · · ■ · ■ ·
+· ■ ■ ■ ■ ■ ■ · ■ ■
+· · · ■ 6 · · · ■ ?
+# Number of solutions found: 1
+# CPU time: 0.4675 s
 ================================= 228 =================================
-# Encoding time: 0.05847 s
+# Encoding time: 0.05865 s
 5 · · ■ 1
 · · ■ ■ ■
 ■ ■ ■ 1 ■
 ■ · ? ■ 1
 ■ ■ ■ ■ ■
 # Number of solutions found: 1
-# CPU time: 0.06644 s
+# CPU time: 0.06455 s
