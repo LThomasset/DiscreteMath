@@ -169,7 +169,7 @@ def add_constraints(grid: Sequence[Sequence[int]],
     has_question_mark = any(clue == -1 for _, clue in clues)
     clue_set = {pos for pos, _ in clues}
 
-    # 1. FIRST: Identify squares guaranteed to be shaded BEFORE running shortest paths
+    # identify squares guaranteed to be shaded before running shortest paths
     known_shaded: set[Square] = set()
 
     # neighbors of 1 clues and squares adjacent to >=2 clues must be shaded
@@ -230,7 +230,7 @@ def add_constraints(grid: Sequence[Sequence[int]],
                     # no checkerboard pattern (type 2)
                     slv.add(Or(s00, s11, Not(s10), Not(s01)))
 
-    # 2. SECOND: compute reachable squares for each clue (using known_shaded as obstacles too!)
+    # compute reachable squares for each clue 
     dist_from_clue: dict[int, dict[Square, int]] = {}
     reachable_by_clue: dict[int, set[Square]] = {}
 
@@ -261,7 +261,7 @@ def add_constraints(grid: Sequence[Sequence[int]],
                 if (i, j) not in reachable:
                     slv.add(Not(C[i][j][k]))
 
-    # 3. THIRD: 2x2 shortest path
+    # 2x2 shortest path
     for i in range(nrow - 1):
         for j in range(ncol - 1):
             block = [(i, j), (i+1, j), (i, j+1), (i+1, j+1)]
@@ -292,7 +292,7 @@ def add_constraints(grid: Sequence[Sequence[int]],
                             sq for sq in block
                             if sq in reachable_by_clue[k] and dist_from_clue[k][sq] == clue_val
                         ]
-                        # recompute obstacles for island k (including known_shaded!)
+                        # recompute obstacles for island k 
                         obstacles = set(known_shaded)
                         for m, ((oi, oj), _) in enumerate(clues, start=1):
                             if m != k:
@@ -319,7 +319,7 @@ def add_constraints(grid: Sequence[Sequence[int]],
                                 r, c = cells_at_d[0]
                                 slv.add(C[r][c][k])
 
-    # 4. FOURTH: cardinality loop & auto-shade squares unreachable from all clues
+    # cardinality loop & auto-shade squares unreachable from all clues
     for k, ((i, j), clue) in enumerate(clues, start=1):
         # the clue belongs to island k
         slv.add(C[i][j][k])
